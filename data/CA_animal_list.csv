@@ -1,0 +1,119 @@
+status, species, listing name, link, spcode
+E,"Abalone, White","Haliotis sorenseni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G0C8,G0C8
+E,"Albatross, short-tailed","Phoebastria (=Diomedea) albatrus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00Y,B00Y
+E,"Beetle, Casey's June","Dinacoma caseyi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0TG,I0TG
+T,"Beetle, delta green ground","Elaphrus viridis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01G,I01G
+E,"Beetle, Mount Hermon June","Polyphylla barbata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0OV,I0OV
+T,"Beetle, valley elderberry longhorn","Desmocerus californicus dimorphus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01L,I01L
+T,"Butterfly, bay checkerspot","Euphydryas editha bayensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I021,I021
+E,"Butterfly, Behren's silverspot","Speyeria zerene behrensii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I031,I031
+E,"Butterfly, callippe silverspot","Speyeria callippe callippe",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I019,I019
+E,"Butterfly, El Segundo blue","Euphilotes battoides allyni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00C,I00C
+E,"Butterfly, Lange's metalmark","Apodemia mormo langei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00H,I00H
+E,"Butterfly, lotis blue","Lycaeides argyrognomon lotis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00I,I00I
+E,"Butterfly, mission blue","Icaricia icarioides missionensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00J,I00J
+E,"Butterfly, Myrtle's silverspot","Speyeria zerene myrtleae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00N,I00N
+T,"Butterfly, Oregon silverspot","Speyeria zerene hippolyta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01A,I01A
+E,"Butterfly, Palos Verdes blue","Glaucopsyche lygdamus palosverdesensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01B,I01B
+E,"Butterfly, Quino checkerspot","Euphydryas editha quino (=E. e. wrighti)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00P,I00P
+E,"Butterfly, San Bruno elfin","Callophrys mossii bayensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00Q,I00Q
+E,"Butterfly, Smith's blue","Euphilotes enoptes smithi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00R,I00R
+E,"Chub, bonytail","Gila elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E020,E020
+E,"Chub, Owens Tui","Gila bicolor ssp. snyderi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02W,E02W
+E,"Condor, California","Gymnogyps californianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B002,B002
+E,"Crayfish, Shasta","Pacifastacus fortis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K01U,K01U
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Cui-ui","Chasmistes cujus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E001,E001
+E,"Fairy shrimp, Conservancy","Branchinecta conservatio",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03D,K03D
+E,"Fairy shrimp, longhorn","Branchinecta longiantenna",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03E,K03E
+E,"Fairy shrimp, Riverside","Streptocephalus woottoni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03F,K03F
+E,"Fairy shrimp, San Diego","Branchinecta sandiegonensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K049,K049
+T,"Fairy shrimp, vernal pool","Branchinecta lynchi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03G,K03G
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+E,"Fly, Delhi Sands flower-loving","Rhaphiomidas terminatus abdominalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0MG,I0MG
+E,"Fox, San Joaquin kit","Vulpes macrotis mutica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A006,A006
+T,"Fox, Santa Catalina Island","Urocyon littoralis catalinae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08K,A08K
+T,"Frog, California red-legged","Rana draytonii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02D,D02D
+E,"Frog, mountain yellow-legged","Rana muscosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02H,D02H
+E,"Frog, mountain yellow-legged","Rana muscosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02H,D02H
+T,"Frog, Oregon spotted","Rana pretiosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02A,D02A
+E,"Frog, Sierra Nevada Yellow-legged","Rana sierrae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D04M,D04M
+T,"Gnatcatcher, coastal California","Polioptila californica californica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08X,B08X
+E,"Goby, tidewater","Eucyclogobius newberryi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E071,E071
+E,"Grasshopper, Zayante band-winged","Trimerotropis infantilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0OY,I0OY
+E,"Kangaroo rat, Fresno","Dipodomys nitratoides exilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08O,A08O
+E,"Kangaroo rat, giant","Dipodomys ingens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08P,A08P
+E,"Kangaroo rat, Morro Bay","Dipodomys heermanni morroensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A03X,A03X
+E,"Kangaroo rat, San Bernardino Merriam's","Dipodomys merriami parvus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0G8,A0G8
+E,"Kangaroo rat, Stephens'","Dipodomys stephensi (incl. D. cascus)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08Q,A08Q
+E,"Kangaroo rat, Tipton","Dipodomys nitratoides nitratoides",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08S,A08S
+E,"Lizard, blunt-nosed leopard","Gambelia silus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C001,C001
+T,"Lizard, Coachella Valley fringe-toed","Uma inornata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02I,C02I
+T,"Moth, Kern primrose sphinx","Euproserpinus euterpe",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01C,I01C
+E,"Mountain beaver, Point Arena","Aplodontia rufa nigra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0BJ,A0BJ
+E,"Mouse, Pacific pocket","Perognathus longimembris pacificus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0BY,A0BY
+E,"Mouse, salt marsh harvest","Reithrodontomys raviventris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A03Y,A03Y
+T,"Murrelet, marbled","Brachyramphus marmoratus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08C,B08C
+T,"Otter, southern sea","Enhydra lutris nereis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0A7,A0A7
+T,"Owl, northern spotted","Strix occidentalis caurina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08B,B08B
+E,"Pikeminnow (=squawfish), Colorado","Ptychocheilus lucius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E006,E006
+T,"Plover, western snowy","Charadrius nivosus nivosus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07C,B07C
+E,"Pupfish, desert","Cyprinodon macularius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E044,E044
+E,"Pupfish, Owens","Cyprinodon radiosus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00A,E00A
+E,"Rabbit, riparian brush","Sylvilagus bachmani riparius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0DN,A0DN
+E,"Rail, California clapper","Rallus longirostris obsoletus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04A,B04A
+E,"Rail, light-footed clapper","Rallus longirostris levipes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04B,B04B
+E,"Rail, Yuma clapper","Rallus longirostris yumanensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00P,B00P
+E,"Salamander, California tiger","Ambystoma californiense",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D01T,D01T
+E,"Salamander, California tiger","Ambystoma californiense",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D01T,D01T
+T,"Salamander, California tiger","Ambystoma californiense",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D01T,D01T
+E,"Salamander, desert slender","Batrachoseps aridus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D005,D005
+E,"Salamander, Santa Cruz long-toed","Ambystoma macrodactylum croceum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D000,D000
+T,"Salmon, Chinook","Oncorhynchus (=Salmo) tshawytscha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06D,E06D
+E,"Salmon, coho","Oncorhynchus (=Salmo) kisutch",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08A,E08A
+T,"Salmon, coho","Oncorhynchus (=Salmo) kisutch",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08A,E08A
+T,"Seal, Guadalupe fur","Arctocephalus townsendi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0A8,A0A8
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Sea turtle, olive ridley","Lepidochelys olivacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00V,C00V
+E,"Sheep, Peninsular bighorn","Ovis canadensis nelsoni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0DR,A0DR
+E,"Sheep, Sierra Nevada bighorn","Ovis canadensis sierrae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0DS,A0DS
+E,"Shrew, Buena Vista Lake ornate","Sorex ornatus relictus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0DV,A0DV
+E,"Shrike, San Clemente loggerhead","Lanius ludovicianus mearnsi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B05R,B05R
+E,"Shrimp, California freshwater","Syncaris pacifica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K01W,K01W
+E,"Skipper, Carson wandering","Pseudocopaeodes eunus obscurus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0RG,I0RG
+E,"Skipper, Laguna Mountains","Pyrgus ruralis lagunae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0LW,I0LW
+T,"Smelt, delta","Hypomesus transpacificus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E070,E070
+E,"Snail, Morro shoulderband (=Banded dune)","Helminthoglypta walkeriana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00D,G00D
+T,"Snake, giant garter","Thamnophis gigas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C057,C057
+E,"Snake, San Francisco garter","Thamnophis sirtalis tetrataenia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C002,C002
+T,"Sparrow, San Clemente sage","Amphispiza belli clementeae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B05S,B05S
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+E,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+E,"Stickleback, unarmored threespine","Gasterosteus aculeatus williamsoni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00X,E00X
+T,"sturgeon, green","Acipenser medirostris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E09K,E09K
+E,"Sucker, Lost River","Deltistes luxatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E052,E052
+E,"Sucker, razorback","Xyrauchen texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E054,E054
+T,"Sucker, Santa Ana","Catostomus santaanae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E07W,E07W
+E,"Sucker, shortnose","Chasmistes brevirostris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E055,E055
+T,"Sucker, Warner","Catostomus warnerensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E057,E057
+E,"Tadpole shrimp, vernal pool","Lepidurus packardi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K048,K048
+E,"Tern, California least","Sterna antillarum browni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03X,B03X
+E,"Tiger beetle, Ohlone","Cicindela ohlone",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0OW,I0OW
+E,"Toad, arroyo (=arroyo southwestern)","Anaxyrus californicus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D020,D020
+T,"toad, Yosemite","Anaxyrus canorus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02K,D02K
+T,"Tortoise, desert","Gopherus agassizii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04L,C04L
+T,"Towhee, Inyo California","Pipilo crissalis eremophilus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07Q,B07Q
+T,"Trout, Lahontan cutthroat","Oncorhynchus clarkii henshawi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Y,E00Y
+T,"Trout, Little Kern golden","Oncorhynchus aguabonita whitei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01Z,E01Z
+T,"Trout, Paiute cutthroat","Oncorhynchus clarkii seleniris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00G,E00G
+E,"Tui chub, Mohave","Gila bicolor ssp. mohavensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Q,E00Q
+E,"Vireo, least Bell's","Vireo bellii pusillus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B067,B067
+E,"Vole, Amargosa","Microtus californicus scirpensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A082,A082
+E,"Whale, blue","Balaenoptera musculus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02M,A02M
+E,"Whale, finback","Balaenoptera physalus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02O,A02O
+E,"Whale, Sei","Balaenoptera borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02S,A02S
+E,"Whale, sperm","Physeter catodon (=macrocephalus)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02T,A02T
+T,"Whipsnake (=striped racer), Alameda","Masticophis lateralis euryxanthus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04A,C04A
+E,"Wolf, gray","Canis lupus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00D,A00D
+E,"Woodrat, riparian (=San Joaquin Valley)","Neotoma fuscipes riparia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0FC,A0FC

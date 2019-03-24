@@ -1,0 +1,32 @@
+status, species, listing name, link, spcode
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bat, Ozark big-eared","Corynorhinus (=Plecotus) townsendii ingens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A075,A075
+E,"Beetle, American burying","Nicrophorus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I028,I028
+E,"Blossom, turgid (pearlymussel)","Epioblasma turgidula",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F004,F004
+T,"Cavefish, Ozark","Amblyopsis rosae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02J,E02J
+E,"crayfish, Benton County cave","Cambarus aculabrum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K02J,K02J
+E,"Crayfish, Hell Creek Cave","Cambarus zophonastes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K02H,K02H
+T,"Darter, leopard","Percina pantherina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E017,E017
+E,"Darter, yellowcheek","Etheostoma moorei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01E,E01E
+T,"fatmucket, Arkansas","Lampsilis powellii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02I,F02I
+E,"Hellbender, Ozark","Cryptobranchus alleganiensis bishopi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D032,D032
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+E,"Mapleleaf, winged","Quadrula fragosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00C,F00C
+E,"Mucket, Neosho","Lampsilis rafinesqueana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00F,F00F
+E,"Mussel, scaleshell","Leptodea leptodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00W,F00W
+E,"Mussel, snuffbox","Epioblasma triquetra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03J,F03J
+T,"Pearlshell, Louisiana","Margaritifera hembeli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02C,F02C
+E,"Pearlymussel, Curtis","Epioblasma florentina curtisii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00J,F00J
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Pocketbook, fat","Potamilus capax",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00T,F00T
+E,"Pocketbook, Ouachita rock","Arkansia wheeleri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00U,F00U
+E,"Pocketbook, speckled","Lampsilis streckeri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F020,F020
+T,"Rabbitsfoot","Quadrula cylindrica cylindrica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03X,F03X
+T,"Shiner, Arkansas River","Notropis girardi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05X,E05X
+E,"Spectaclecase (mussel)","Cumberlandia monodonta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00X,F00X
+E,"Sturgeon, pallid","Scaphirhynchus albus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06X,E06X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+E,"Woodpecker, ivory-billed","Campephilus principalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03Q,B03Q
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F

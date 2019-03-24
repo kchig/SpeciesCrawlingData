@@ -1,0 +1,13 @@
+status, species, listing name, link, spcode
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+T,"Bear, grizzly","Ursus arctos horribilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A001,A001
+E,"Crane, whooping","Grus americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B003,B003
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Ferret, black-footed","Mustela nigripes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A004,A004
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Sturgeon, pallid","Scaphirhynchus albus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06X,E06X
+E,"Sturgeon, white","Acipenser transmontanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E087,E087
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+T,"Trout, bull","Salvelinus confluentus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E065,E065

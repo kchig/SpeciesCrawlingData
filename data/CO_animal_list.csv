@@ -1,0 +1,18 @@
+status, species, listing name, link, spcode
+E,"Butterfly, Uncompahgre fritillary","Boloria acrocnema",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01Q,I01Q
+E,"Chub, bonytail","Gila elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E020,E020
+E,"Chub, humpback","Gila cypha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E000,E000
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Ferret, black-footed","Mustela nigripes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A004,A004
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+E,"Mouse, New Mexico meadow jumping","Zapus hudsonius luteus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0BX,A0BX
+T,"Mouse, Preble's meadow jumping","Zapus hudsonius preblei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0C2,A0C2
+T,"Owl, Mexican spotted","Strix occidentalis lucida",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B074,B074
+E,"Pikeminnow (=squawfish), Colorado","Ptychocheilus lucius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E006,E006
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+T,"sage-grouse, Gunnison","Centrocercus minimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0B0,B0B0
+T,"Skipper, Pawnee montane","Hesperia leonardus montana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01E,I01E
+E,"Sucker, razorback","Xyrauchen texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E054,E054
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+T,"trout, Greenback Cutthroat","Oncorhynchus clarkii stomias",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00F,E00F

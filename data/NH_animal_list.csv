@@ -1,0 +1,10 @@
+status, species, listing name, link, spcode
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Butterfly, Karner blue","Lycaeides melissa samuelis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00F,I00F
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+E,"Tern, roseate","Sterna dougallii dougallii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07O,B07O
+E,"Wedgemussel, dwarf","Alasmidonta heterodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F029,F029

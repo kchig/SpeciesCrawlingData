@@ -1,0 +1,15 @@
+status, species, listing name, link, spcode
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bean, rayed","Villosa fabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01A,F01A
+E,"Clubshell","Pleurobema clava",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01D,F01D
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Massasauga (=rattlesnake), eastern","Sistrurus catenatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03P,C03P
+E,"Mussel, sheepnose","Plethobasus cyphyus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F046,F046
+E,"Mussel, snuffbox","Epioblasma triquetra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03J,F03J
+E,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+T,"Rabbitsfoot","Quadrula cylindrica cylindrica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03X,F03X
+E,"Riffleshell, northern","Epioblasma torulosa rangiana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02Z,F02Z
+E,"Sturgeon, shortnose","Acipenser brevirostrum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00B,E00B
+T,"turtle, bog","Clemmys muhlenbergii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C048,C048
+E,"Wedgemussel, dwarf","Alasmidonta heterodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F029,F029

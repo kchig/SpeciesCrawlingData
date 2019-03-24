@@ -1,0 +1,38 @@
+status, species, listing name, link, spcode
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bat, Virginia big-eared","Corynorhinus (=Plecotus) townsendii virginianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A080,A080
+E,"Bean, Cumberland (pearlymussel)","Villosa trabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F000,F000
+E,"Bean, rayed","Villosa fabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01A,F01A
+E,"Clubshell","Pleurobema clava",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01D,F01D
+E,"Combshell, Cumberlandian","Epioblasma brevidens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01F,F01F
+T,"Crayfish, Big Sandy","Cambarus callainus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03K,K03K
+T,"Dace, blackside","Phoxinus cumberlandensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05I,E05I
+E,"Darter, Cumberland","Etheostoma susanae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05R,E05R
+E,"Darter, duskytail","Etheostoma percnurum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E078,E078
+T,"Darter, Kentucky arrow","Etheostoma spilotum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E0BF,E0BF
+E,"Darter, relict","Etheostoma chienense",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E086,E086
+E,"Elktoe, Cumberland","Alasmidonta atropurpurea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01K,F01K
+E,"Fanshell","Cyprogenia stegaria",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02H,F02H
+E,"Kidneyshell, fluted","Ptychobranchus subtentum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F041,F041
+E,"Mucket, pink (pearlymussel)","Lampsilis abrupta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00G,F00G
+E,"Mussel, oyster","Epioblasma capsaeformis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01T,F01T
+E,"Mussel, sheepnose","Plethobasus cyphyus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F046,F046
+E,"Mussel, snuffbox","Epioblasma triquetra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03J,F03J
+E,"Pearlymussel, dromedary","Dromus dromas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00K,F00K
+E,"Pearlymussel, littlewing","Pegias fabula",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00L,F00L
+E,"Pearlymussel, slabside","Pleuronaia dolabelloides",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01Y,F01Y
+E,"Pigtoe, rough","Pleurobema plenum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00P,F00P
+E,"Pimpleback, orangefoot (pearlymussel)","Plethobasus cooperianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00R,F00R
+E,"Pocketbook, fat","Potamilus capax",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00T,F00T
+E,"Purple Cat's paw (=Purple Cat's paw pearlymussel)","Epioblasma obliquata obliquata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F006,F006
+T,"Rabbitsfoot","Quadrula cylindrica cylindrica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03X,F03X
+E,"Riffleshell, northern","Epioblasma torulosa rangiana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02Z,F02Z
+E,"Riffleshell, tan","Epioblasma florentina walkeri (=E. walkeri)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F010,F010
+E,"Ring pink (mussel)","Obovaria retusa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00S,F00S
+E,"Shiner, palezone","Notropis albizonatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04E,E04E
+E,"Shrimp, Kentucky cave","Palaemonias ganteri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K01X,K01X
+E,"Spectaclecase (mussel)","Cumberlandia monodonta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00X,F00X
+E,"Sturgeon, pallid","Scaphirhynchus albus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06X,E06X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N

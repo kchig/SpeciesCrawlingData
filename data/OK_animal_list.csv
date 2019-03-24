@@ -1,0 +1,20 @@
+status, species, listing name, link, spcode
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bat, Ozark big-eared","Corynorhinus (=Plecotus) townsendii ingens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A075,A075
+E,"Beetle, American burying","Nicrophorus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I028,I028
+T,"Cavefish, Ozark","Amblyopsis rosae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02J,E02J
+E,"Crane, whooping","Grus americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B003,B003
+T,"Darter, leopard","Percina pantherina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E017,E017
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Madtom, Neosho","Noturus placidus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03S,E03S
+E,"Mapleleaf, winged","Quadrula fragosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00C,F00C
+E,"Mucket, Neosho","Lampsilis rafinesqueana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00F,F00F
+E,"Mussel, scaleshell","Leptodea leptodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00W,F00W
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Pocketbook, Ouachita rock","Arkansia wheeleri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00U,F00U
+T,"Rabbitsfoot","Quadrula cylindrica cylindrica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03X,F03X
+T,"Shiner, Arkansas River","Notropis girardi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05X,E05X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F

@@ -1,0 +1,20 @@
+status, species, listing name, link, spcode
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bean, rayed","Villosa fabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01A,F01A
+E,"Beetle, American burying","Nicrophorus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I028,I028
+E,"Beetle, Hungerford's crawling water","Brychius hungerfordi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I02B,I02B
+E,"Butterfly, Karner blue","Lycaeides melissa samuelis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00F,I00F
+E,"Butterfly, Mitchell's satyr","Neonympha mitchellii mitchellii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00K,I00K
+E,"Clubshell","Pleurobema clava",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01D,F01D
+E,"Dragonfly, Hine's emerald","Somatochlora hineana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I06P,I06P
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Massasauga (=rattlesnake), eastern","Sistrurus catenatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03P,C03P
+E,"Mussel, snuffbox","Epioblasma triquetra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03J,F03J
+E,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Riffleshell, northern","Epioblasma torulosa rangiana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02Z,F02Z
+E,"skipperling, Poweshiek","Oarisma poweshiek",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0W1,I0W1
+T,"Snake, copperbelly water","Nerodia erythrogaster neglecta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03X,C03X
+E,"Warbler, Kirtland's","Setophaga kirtlandii (= Dendroica kirtlandii)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I,B03I
+E,"Wolf, gray","Canis lupus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00D,A00D

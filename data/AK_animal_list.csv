@@ -1,0 +1,13 @@
+status, species, listing name, link, spcode
+E,"Albatross, short-tailed","Phoebastria (=Diomedea) albatrus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00Y,B00Y
+T,"Bear, polar","Ursus maritimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0IJ,A0IJ
+T,"Bison, wood","Bison bison athabascae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00R,A00R
+E,"Curlew, Eskimo","Numenius borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B01A,B01A
+T,"Eider, spectacled","Somateria fischeri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08Z,B08Z
+T,"Eider, Steller's","Polysticta stelleri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B090,B090
+T,"Otter, Northern Sea","Enhydra lutris kenyoni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0HK,A0HK
+E,"Sea lion, Steller","Eumetopias jubatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0FS,A0FS
+E,"whale, beluga","Delphinapterus leucas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0K5,A0K5
+E,"Whale, blue","Balaenoptera musculus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02M,A02M
+E,"Whale, bowhead","Balaena mysticetus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02N,A02N
+E,"Whale, sperm","Physeter catodon (=macrocephalus)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A02T,A02T

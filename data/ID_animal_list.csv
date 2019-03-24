@@ -1,0 +1,11 @@
+status, species, listing name, link, spcode
+T,"Bear, grizzly","Ursus arctos horribilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A001,A001
+E,"Caribou, Woodland","Rangifer tarandus caribou",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A088,A088
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Limpet, Banbury Springs","Lanx sp.",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G05Q,G05Q
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Snail, Bliss Rapids","Taylorconcha serpenticola",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G01K,G01K
+E,"Springsnail, Bruneau Hot","Pyrgulopsis bruneauensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G03R,G03R
+T,"Squirrel, Northern Idaho Ground","Urocitellus brunneus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0EK,A0EK
+E,"Sturgeon, white","Acipenser transmontanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E087,E087
+T,"Trout, bull","Salvelinus confluentus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E065,E065

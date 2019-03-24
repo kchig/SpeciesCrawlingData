@@ -1,0 +1,44 @@
+status, species, listing name, link, spcode
+E,"Ambersnail, Kanab","Oxyloma haydeni kanabensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G01M,G01M
+E,"Bobwhite, masked (quail)","Colinus virginianus ridgwayi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00Z,B00Z
+T,"Catfish, Yaqui","Ictalurus pricei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02H,E02H
+E,"Chub, bonytail","Gila elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E020,E020
+E,"Chub, Gila","Gila intermedia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02P,E02P
+E,"Chub, humpback","Gila cypha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E000,E000
+T,"Chub, Sonora","Gila ditaenia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E029,E029
+E,"Chub, Virgin River","Gila seminuda (=robusta)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02A,E02A
+E,"Chub, Yaqui","Gila purpurea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E034,E034
+E,"Condor, California","Gymnogyps californianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B002,B002
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Ferret, black-footed","Mustela nigripes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A004,A004
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+T,"Frog, Chiricahua leopard","Rana chiricahuensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02F,D02F
+T,"gartersnake, narrow-headed","Thamnophis rufipunctatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C051,C051
+T,"gartersnake, northern Mexican","Thamnophis eques megalops",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04Q,C04Q
+E,"Jaguar","Panthera onca",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A040,A040
+E,"Minnow, loach","Tiaroga cobitis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03X,E03X
+E,"Mouse, New Mexico meadow jumping","Zapus hudsonius luteus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0BX,A0BX
+E,"Ocelot","Leopardus (=Felis) pardalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A084,A084
+T,"Owl, Mexican spotted","Strix occidentalis lucida",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B074,B074
+E,"Pikeminnow (=squawfish), Colorado","Ptychocheilus lucius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E006,E006
+E,"Pronghorn, Sonoran","Antilocapra americana sonoriensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A009,A009
+E,"Pupfish, desert","Cyprinodon macularius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E044,E044
+E,"Rail, Yuma clapper","Rallus longirostris yumanensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00P,B00P
+T,"Rattlesnake, New Mexican ridge-nosed","Crotalus willardi obscurus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C01S,C01S
+E,"Salamander, Sonora tiger","Ambystoma tigrinum stebbinsi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D01H,D01H
+T,"Shiner, beautiful","Cyprinella formosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04B,E04B
+E,"Spikedace","Meda fulgida",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05J,E05J
+T,"Spinedace, Little Colorado","Lepidomeda vittata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04M,E04M
+T,"springsnail, San Bernardino","Pyrgulopsis bernardina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G05E,G05E
+E,"Springsnail, Three Forks","Pyrgulopsis trivialis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G051,G051
+E,"Squirrel, Mount Graham red","Tamiasciurus hudsonicus grahamensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A09O,A09O
+E,"Sucker, razorback","Xyrauchen texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E054,E054
+E,"Sucker, Zuni bluehead","Catostomus discobolus yarrowi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E063,E063
+E,"Tern, California least","Sterna antillarum browni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03X,B03X
+E,"Topminnow, Gila (incl. Yaqui)","Poeciliopsis occidentalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00C,E00C
+T,"Tortoise, desert","Gopherus agassizii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04L,C04L
+T,"Trout, Apache","Oncorhynchus apache",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00D,E00D
+T,"Trout, Gila","Oncorhynchus gilae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00E,E00E
+E,"Turtle, Sonoyta mud","Kinosternon sonoriense longifemorale",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C067,C067
+E,"Wolf, Mexican","Canis lupus baileyi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00E,A00E
+E,"Woundfin","Plagopterus argentissimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Z,E00Z

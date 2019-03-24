@@ -1,0 +1,31 @@
+status, species, listing name, link, spcode
+E,"Butterfly, Mount Charleston blue","Icaricia (Plebejus) shasta charlestonensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0TX,I0TX
+E,"Chub, bonytail","Gila elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E020,E020
+E,"Chub, humpback","Gila cypha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E000,E000
+E,"Chub, Pahranagat roundtail","Gila robusta jordani",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00R,E00R
+E,"Chub, Virgin River","Gila seminuda (=robusta)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02A,E02A
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Cui-ui","Chasmistes cujus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E001,E001
+E,"Dace, Ash Meadows speckled","Rhinichthys osculus nevadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03A,E03A
+E,"Dace, Clover Valley speckled","Rhinichthys osculus oligoporus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03B,E03B
+T,"Dace, desert","Eremichthys acros",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03C,E03C
+E,"Dace, Independence Valley speckled","Rhinichthys osculus lethoporus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03E,E03E
+E,"Dace, Moapa","Moapa coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E002,E002
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+T,"Naucorid, Ash Meadows","Ambrysus amargosus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I023,I023
+E,"Poolfish, Pahrump","Empetrichthys latos",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E007,E007
+E,"Pupfish, Ash Meadows Amargosa","Cyprinodon nevadensis mionectes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E042,E042
+E,"Pupfish, Devils Hole","Cyprinodon diabolis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E009,E009
+E,"Pupfish, Warm Springs","Cyprinodon nevadensis pectoralis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00W,E00W
+E,"Skipper, Carson wandering","Pseudocopaeodes eunus obscurus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0RG,I0RG
+T,"Spinedace, Big Spring","Lepidomeda mollispinis pratensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04L,E04L
+E,"Spinedace, White River","Lepidomeda albivallis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04P,E04P
+E,"Springfish, Hiko White River","Crenichthys baileyi grandis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04Q,E04Q
+T,"Springfish, Railroad Valley","Crenichthys nevadae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04T,E04T
+E,"Springfish, White River","Crenichthys baileyi baileyi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04U,E04U
+E,"Sucker, razorback","Xyrauchen texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E054,E054
+T,"Sucker, Warner","Catostomus warnerensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E057,E057
+T,"Tortoise, desert","Gopherus agassizii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04L,C04L
+T,"Trout, bull","Salvelinus confluentus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E065,E065
+T,"Trout, Lahontan cutthroat","Oncorhynchus clarkii henshawi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Y,E00Y
+E,"Woundfin","Plagopterus argentissimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Z,E00Z

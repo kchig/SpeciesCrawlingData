@@ -1,0 +1,39 @@
+status, species, listing name, link, spcode
+E,"Albatross, short-tailed","Phoebastria (=Diomedea) albatrus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00Y,B00Y
+E,"Butterfly, Fender's blue","Icaricia icarioides fenderi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0IS,I0IS
+T,"Butterfly, Oregon silverspot","Speyeria zerene hippolyta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I01A,I01A
+E,"Checkerspot, Taylor's (=whulge)","Euphydryas editha taylori",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0T6,I0T6
+E,"Chub, Borax Lake","Gila boraxobius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E027,E027
+T,"Chub, Hutton tui","Gila bicolor ssp.",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02S,E02S
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+T,"Dace, Foskett speckled","Rhinichthys osculus ssp.",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03D,E03D
+T,"Deer, Columbian white-tailed","Odocoileus virginianus leucurus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A002,A002
+T,"Fairy shrimp, vernal pool","Branchinecta lynchi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K03G,K03G
+T,"Frog, Oregon spotted","Rana pretiosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02A,D02A
+E,"Goby, tidewater","Eucyclogobius newberryi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E071,E071
+T,"Horned lark, streaked","Eremophila alpestris strigata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0B3,B0B3
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Murrelet, marbled","Brachyramphus marmoratus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08C,B08C
+T,"Owl, northern spotted","Strix occidentalis caurina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B08B,B08B
+T,"Plover, western snowy","Charadrius nivosus nivosus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07C,B07C
+T,"Salmon, Chinook","Oncorhynchus (=Salmo) tshawytscha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06D,E06D
+T,"Salmon, Chinook","Oncorhynchus (=Salmo) tshawytscha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06D,E06D
+T,"Salmon, Chinook","Oncorhynchus (=Salmo) tshawytscha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06D,E06D
+T,"Salmon, Chinook","Oncorhynchus (=Salmo) tshawytscha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06D,E06D
+T,"Salmon, chum","Oncorhynchus keta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E09Q,E09Q
+T,"Salmon, coho","Oncorhynchus (=Salmo) kisutch",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08A,E08A
+E,"Salmon, sockeye","Oncorhynchus (=Salmo) nerka",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06Y,E06Y
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+E,"Sea turtle, loggerhead","Caretta caretta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00U,C00U
+T,"Sea turtle, olive ridley","Lepidochelys olivacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00V,C00V
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+T,"Steelhead","Oncorhynchus (=Salmo) mykiss",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E08D,E08D
+E,"Sucker, Lost River","Deltistes luxatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E052,E052
+E,"Sucker, shortnose","Chasmistes brevirostris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E055,E055
+T,"Sucker, Warner","Catostomus warnerensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E057,E057
+E,"Tadpole shrimp, vernal pool","Lepidurus packardi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K048,K048
+T,"Trout, bull","Salvelinus confluentus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E065,E065
+T,"Trout, Lahontan cutthroat","Oncorhynchus clarkii henshawi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Y,E00Y
+E,"Wolf, gray","Canis lupus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00D,A00D

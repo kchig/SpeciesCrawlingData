@@ -1,0 +1,16 @@
+status, species, listing name, link, spcode
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bean, rayed","Villosa fabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01A,F01A
+E,"Butterfly, Karner blue","Lycaeides melissa samuelis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00F,I00F
+E,"Clubshell","Pleurobema clava",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01D,F01D
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Massasauga (=rattlesnake), eastern","Sistrurus catenatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03P,C03P
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Snail, Chittenango ovate amber","Succinea chittenangoensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00P,G00P
+E,"Tern, roseate","Sterna dougallii dougallii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07O,B07O
+T,"turtle, bog","Clemmys muhlenbergii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C048,C048
+E,"Wedgemussel, dwarf","Alasmidonta heterodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F029,F029

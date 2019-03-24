@@ -1,0 +1,68 @@
+status, species, listing name, link, spcode
+T,"Bankclimber, purple (mussel)","Elliptoideus sloatianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02E,F02E
+E,"bat, Florida bonneted","Eumops floridanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JB,A0JB
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bean, Choctaw","Villosa choctawensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01B,F01B
+E,"Butterfly, Bartram's hairstreak","Strymon acis bartrami",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I07G,I07G
+E,"Butterfly, Florida leafwing","Anaea troglodyta floridalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I087,I087
+E,"Butterfly, Miami Blue","Cyclargus (=Hemiargus) thomasi bethunebakeri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I02Q,I02Q
+E,"Butterfly, Schaus swallowtail","Heraclides aristodemus ponceanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I016,I016
+T,"Caracara, Audubon's crested","Polyborus plancus audubonii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06Q,B06Q
+T,"Coral, elkhorn","Acropora palmata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=P001,P001
+T,"Coral, staghorn","Acropora cervicornis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=P000,P000
+T,"Crocodile, American","Crocodylus acutus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02J,C02J
+T,"Darter, Okaloosa","Etheostoma okaloosae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00H,E00H
+E,"Deer, key","Odocoileus virginianus clavium",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A003,A003
+E,"Ebonyshell, round","Fusconaia rotulata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02G,F02G
+E,"Kidneyshell, southern","Ptychobranchus jonesi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02N,F02N
+E,"Kite, Everglade snail","Rostrhamus sociabilis plumbeus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00F,B00F
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Manatee, West Indian","Trichechus manatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007,A007
+E,"Moccasinshell, Gulf","Medionidus penicillatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03M,F03M
+E,"Moccasinshell, Ochlockonee","Medionidus simpsonianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03N,F03N
+T,"Moccasinshell, Suwannee","Medionidus walkeri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03T,F03T
+E,"Mouse, Anastasia Island beach","Peromyscus polionotus phasma",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0BM,A0BM
+E,"Mouse, Choctawhatchee beach","Peromyscus polionotus allophrys",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08B,A08B
+E,"Mouse, Key Largo cotton","Peromyscus gossypinus allapaticola",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A086,A086
+E,"Mouse, Perdido Key beach","Peromyscus polionotus trissyllepsis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A08C,A08C
+T,"Mouse, southeastern beach","Peromyscus polionotus niveiventris",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0C9,A0C9
+E,"Mouse, St. Andrew beach","Peromyscus polionotus peninsularis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0CB,A0CB
+E,"Panther, Florida","Puma (=Felis) concolor coryi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A008,A008
+T,"Pigtoe, fuzzy","Pleurobema strodeanum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03V,F03V
+T,"Pigtoe, narrow","Fusconaia escambia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02T,F02T
+E,"Pigtoe, oval","Pleurobema pyriforme",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02S,F02S
+T,"Pigtoe, tapered","Fusconaia burkei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03W,F03W
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Pocketbook, shinyrayed","Lampsilis subangulata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02Y,F02Y
+E,"Rabbit, Lower Keys marsh","Sylvilagus palustris hefneri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0AA,A0AA
+E,"Rice rat","Oryzomys palustris natator",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A083,A083
+T,"Salamander, frosted flatwoods","Ambystoma cingulatum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D013,D013
+E,"salamander, Reticulated flatwoods","Ambystoma bishopi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D042,D042
+T,"sandshell, Southern","Hamiota australis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F030,F030
+E,"Sawfish, smalltooth","Pristis pectinata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E0A9,E0A9
+T,"scrub-jay, Florida","Aphelocoma coerulescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B082,B082
+T,"Sea turtle, green","Chelonia mydas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00S,C00S
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, Kemp's ridley","Lepidochelys kempii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O,C00O
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Sea turtle, loggerhead","Caretta caretta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00U,C00U
+T,"Shrimp, Squirrel Chimney Cave","Palaemonetes cummingi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K02F,K02F
+T,"Skink, bluetail mole","Eumeces egregius lividus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03T,C03T
+T,"Skink, sand","Neoseps reynoldsi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03V,C03V
+T,"Slabshell, Chipola","Elliptio chipolaensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03O,F03O
+T,"Snail, Stock Island tree","Orthalicus reses (not incl. nesodryas)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00Y,G00Y
+T,"Snake, Atlantic salt marsh","Nerodia clarkii taeniata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C01T,C01T
+T,"Snake, eastern indigo","Drymarchon corais couperi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C026,C026
+E,"Sparrow, Cape Sable seaside","Ammodramus maritimus mirabilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00Q,B00Q
+E,"Sparrow, Florida grasshopper","Ammodramus savannarum floridanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07G,B07G
+T,"Stork, wood","Mycteria americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06O,B06O
+T,"Sturgeon (Gulf subspecies), Atlantic","Acipenser oxyrinchus (=oxyrhynchus) desotoi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04W,E04W
+T,"Tern, roseate","Sterna dougallii dougallii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07O,B07O
+E,"Threeridge, fat (mussel)","Amblema neislerii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F032,F032
+E,"Tiger beetle, Miami","Cicindelidia floridana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0XA,I0XA
+E,"Vole, Florida salt marsh","Microtus pennsylvanicus dukecampbelli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0ET,A0ET
+E,"Warbler, Kirtland's","Setophaga kirtlandii (= Dendroica kirtlandii)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03I,B03I
+E,"Warbler (=wood), Bachman's","Vermivora bachmanii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B03G,B03G
+E,"Wolf, red","Canis rufus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A00F,A00F
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F
+E,"Woodrat, Key Largo","Neotoma floridana smalli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A087,A087

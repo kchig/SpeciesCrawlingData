@@ -1,0 +1,40 @@
+status, species, listing name, link, spcode
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bat, Virginia big-eared","Corynorhinus (=Plecotus) townsendii virginianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A080,A080
+E,"Bean, Cumberland (pearlymussel)","Villosa trabalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F000,F000
+E,"Butterfly, Saint Francis' satyr","Neonympha mitchellii francisci",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0MZ,I0MZ
+T,"Chub, spotfin","Erimonax monachus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E012,E012
+E,"Elktoe, Appalachian","Alasmidonta raveneliana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01J,F01J
+E,"Heelsplitter, Carolina","Lasmigona decorata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02L,F02L
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Lance, yellow","Elliptio lanceolata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03I,F03I
+E,"Logperch, Roanoke","Percina rex",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01G,E01G
+E,"Madtom, smoky","Noturus baileyi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02C,E02C
+T,"Manatee, West Indian","Trichechus manatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007,A007
+E,"Monkeyface, Appalachian (pearlymussel)","Quadrula sparsa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00D,F00D
+E,"Monkeyface, Cumberland (pearlymussel)","Quadrula intermedia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00E,F00E
+E,"Pearlymussel, littlewing","Pegias fabula",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00L,F00L
+E,"Pearlymussel, slabside","Pleuronaia dolabelloides",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01Y,F01Y
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Riffleshell, tan","Epioblasma florentina walkeri (=E. walkeri)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F010,F010
+E,"Riversnail, Anthony's","Athearnia anthonyi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G016,G016
+T,"Sea turtle, green","Chelonia mydas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00S,C00S
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, Kemp's ridley","Lepidochelys kempii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O,C00O
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Sea turtle, loggerhead","Caretta caretta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00U,C00U
+E,"Shiner, Cape Fear","Notropis mekistocholas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01N,E01N
+T,"Silverside, Waccamaw","Menidia extensa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01P,E01P
+T,"snail, noonday","Mesodon clarki nantahala",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00V,G00V
+E,"Spider, spruce-fir moss","Microhexura montivaga",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J014,J014
+E,"Spinymussel, James","Pleurobema collina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F025,F025
+E,"Spinymussel, Tar River","Elliptio steinstansana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F015,F015
+E,"Squirrel, Carolina northern flying","Glaucomys sabrinus coloratus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A09M,A09M
+T,"Stork, wood","Mycteria americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06O,B06O
+E,"Sturgeon, Atlantic","Acipenser oxyrinchus oxyrinchus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E0A7,E0A7
+E,"Sturgeon, shortnose","Acipenser brevirostrum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00B,E00B
+E,"Tern, roseate","Sterna dougallii dougallii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07O,B07O
+E,"Wedgemussel, dwarf","Alasmidonta heterodon",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F029,F029
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F

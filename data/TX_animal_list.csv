@@ -1,0 +1,72 @@
+status, species, listing name, link, spcode
+E,"Amphipod, diminutive","Gammarus hyalleloides",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K020,K020
+E,"Amphipod, Peck's cave","Stygobromus (=Stygonectes) pecki",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K019,K019
+E,"Amphipod, Pecos","Gammarus pecos",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=K024,K024
+E,"Bat, Mexican long-nosed","Leptonycteris nivalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0AE,A0AE
+E,"Beetle, American burying","Nicrophorus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I028,I028
+E,"Beetle, Coffin Cave mold","Batrisodes texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0I9,I0I9
+E,"Beetle, Comal Springs dryopid","Stygoparnus comalensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0MI,I0MI
+E,"Beetle, Comal Springs riffle","Heterelmis comalensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0MH,I0MH
+E,"Beetle, Helotes mold","Batrisodes venyivi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0PT,I0PT
+E,"Beetle, Kretschmarr Cave mold","Texamaurops reddelli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0IA,I0IA
+E,"Beetle, [no common name]","Rhadine exilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0RF,I0RF
+E,"Beetle, [no common name]","Rhadine infernalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0P1,I0P1
+E,"Beetle, Tooth Cave ground","Rhadine persephone",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0IB,I0IB
+E,"Blindcat, Mexican (catfish)","Prietella phreatophila",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00K,E00K
+E,"Crane, whooping","Grus americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B003,B003
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Curlew, Eskimo","Numenius borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B01A,B01A
+E,"Darter, fountain","Etheostoma fonticola",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00T,E00T
+E,"Falcon, Northern Aplomado","Falco femoralis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06V,B06V
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+E,"Gambusia, Big Bend","Gambusia gaigei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E004,E004
+E,"Gambusia, Clear Creek","Gambusia heterochir",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E005,E005
+E,"Gambusia, Pecos","Gambusia nobilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00V,E00V
+E,"Gambusia, San Marcos","Gambusia georgei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E021,E021
+E,"Harvestman, Bee Creek Cave","Texella reddelli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J008,J008
+E,"Harvestman, Bone Cave","Texella reyesi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J009,J009
+E,"Harvestman, Cokendolpher Cave","Texella cokendolpheri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J016,J016
+E,"Hornshell, Texas","Popenaias popeii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F02M,F02M
+E,"Jaguarundi, Gulf Coast","Herpailurus (=Felis) yagouaroundi cacomitli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A05H,A05H
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Manatee, West Indian","Trichechus manatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007,A007
+E,"Meshweaver, Braken Bat Cave","Cicurina venii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J01D,J01D
+E,"Meshweaver, Government Canyon Bat Cave","Cicurina vespera",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J01B,J01B
+E,"Meshweaver, Madla Cave","Cicurina madla",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J019,J019
+E,"Meshweaver, Robber Baron Cave","Cicurina baronia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J01A,J01A
+T,"Minnow, Devils River","Dionda diaboli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E03V,E03V
+E,"Minnow, Rio Grande Silvery","Hybognathus amarus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E07I,E07I
+E,"Ocelot","Leopardus (=Felis) pardalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A084,A084
+T,"Owl, Mexican spotted","Strix occidentalis lucida",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B074,B074
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Prairie-chicken, Attwater's greater","Tympanuchus cupido attwateri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B00O,B00O
+E,"Pseudoscorpion, Tooth Cave","Tartarocreagris texana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J00A,J00A
+E,"Pupfish, Comanche Springs","Cyprinodon elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E008,E008
+E,"Pupfish, Leon Springs","Cyprinodon bovinus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E023,E023
+E,"Salamander, Austin blind","Eurycea waterlooensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D033,D033
+E,"Salamander, Barton Springs","Eurycea sosorum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D010,D010
+T,"Salamander, Georgetown","Eurycea naufragia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02S,D02S
+T,"Salamander, Jollyville Plateau","Eurycea tonkawae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02T,D02T
+T,"Salamander, Salado","Eurycea chisholmensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D02X,D02X
+T,"Salamander, San Marcos","Eurycea nana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D00I,D00I
+E,"Salamander, Texas blind","Typhlomolge rathbuni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D001,D001
+T,"Sea turtle, green","Chelonia mydas",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00S,C00S
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, Kemp's ridley","Lepidochelys kempii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O,C00O
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Sea turtle, loggerhead","Caretta caretta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00U,C00U
+T,"Shiner, Arkansas River","Notropis girardi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05X,E05X
+E,"Shiner, sharpnose","Notropis oxyrhynchus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04K,E04K
+E,"Shiner, smalleye","Notropis buccula",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E05Z,E05Z
+E,"Snail, Pecos assiminea","Assiminea pecos",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G03K,G03K
+T,"Snake, Louisiana pine","Pituophis ruthveni",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C02C,C02C
+E,"Spider, Government Canyon Bat Cave","Neoleptoneta microps",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J018,J018
+E,"Spider, Tooth Cave","Neoleptoneta myopica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=J00B,J00B
+E,"Springsnail, Phantom","Pyrgulopsis texana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00X,G00X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+E,"Toad, Houston","Bufo houstonensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D004,D004
+E,"Tryonia, Diamond","Pseudotryonia adamantina",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G04W,G04W
+E,"Tryonia, Gonzales","Tryonia circumstriata (=stocktonensis)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G05D,G05D
+E,"Tryonia, Phantom","Tryonia cheatumi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G013,G013
+E,"Warbler (=wood), golden-cheeked","Dendroica chrysoparia",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07W,B07W
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F

@@ -1,0 +1,46 @@
+status, species, listing name, link, spcode
+E,"Bat, gray","Myotis grisescens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04J,A04J
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Butterfly, Mitchell's satyr","Neonympha mitchellii mitchellii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I00K,I00K
+E,"Clubshell","Pleurobema clava",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01D,F01D
+E,"Clubshell, black","Pleurobema curtum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F011,F011
+E,"Clubshell, ovate","Pleurobema perovatum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F035,F035
+E,"Clubshell, southern","Pleurobema decisum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F036,F036
+E,"Combshell, Cumberlandian","Epioblasma brevidens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01F,F01F
+E,"Combshell, southern","Epioblasma penita",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F012,F012
+E,"Crane, Mississippi sandhill","Grus canadensis pulla",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04I,B04I
+T,"Darter, bayou","Etheostoma rubrum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E01S,E01S
+T,"Darter, Pearl","Percina aurora",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E07A,E07A
+T,"Darter, snail","Percina tanasi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E010,E010
+E,"Frog, dusky gopher","Rana sevosa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D031,D031
+T,"heelsplitter, Inflated","Potamilus inflatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01O,F01O
+T,"Knot, red","Calidris canutus rufa",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0DM,B0DM
+T,"Manatee, West Indian","Trichechus manatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A007,A007
+T,"Moccasinshell, Alabama","Medionidus acutissimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F038,F038
+T,"Mucket, orangenacre","Lampsilis perovalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01S,F01S
+E,"Mucket, pink (pearlymussel)","Lampsilis abrupta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00G,F00G
+E,"Mussel, sheepnose","Plethobasus cyphyus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F046,F046
+E,"Mussel, snuffbox","Epioblasma triquetra",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03J,F03J
+E,"Pearlymussel, slabside","Pleuronaia dolabelloides",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F01Y,F01Y
+E,"Pigtoe, flat","Pleurobema marshalli",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F013,F013
+E,"Pigtoe, heavy","Pleurobema taitianum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F014,F014
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Pocketbook, fat","Potamilus capax",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00T,F00T
+T,"Rabbitsfoot","Quadrula cylindrica cylindrica",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F03X,F03X
+E,"Riffleshell, tan","Epioblasma florentina walkeri (=E. walkeri)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F010,F010
+E,"Sea turtle, hawksbill","Eretmochelys imbricata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00E,C00E
+E,"Sea turtle, Kemp's ridley","Lepidochelys kempii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00O,C00O
+E,"Sea turtle, leatherback","Dermochelys coriacea",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00F,C00F
+T,"Sea turtle, loggerhead","Caretta caretta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C00U,C00U
+T,"Snake, black pine","Pituophis melanoleucus lodingi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C029,C029
+E,"Stirrupshell","Quadrula stapes",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F027,F027
+T,"Stork, wood","Mycteria americana",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06O,B06O
+T,"Sturgeon (Gulf subspecies), Atlantic","Acipenser oxyrinchus (=oxyrhynchus) desotoi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E04W,E04W
+E,"Sturgeon, pallid","Scaphirhynchus albus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06X,E06X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+T,"Tortoise, gopher","Gopherus polyphemus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C044,C044
+E,"Turtle, Alabama red-bellied","Pseudemys alabamensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C01W,C01W
+T,"Turtle, ringed map","Graptemys oculifera",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C022,C022
+T,"Turtle, yellow-blotched map","Graptemys flavimaculata",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C025,C025
+E,"Woodpecker, red-cockaded","Picoides borealis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B04F,B04F

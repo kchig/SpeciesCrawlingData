@@ -1,0 +1,19 @@
+status, species, listing name, link, spcode
+E,"Ambersnail, Kanab","Oxyloma haydeni kanabensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G01M,G01M
+E,"Chub, bonytail","Gila elegans",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E020,E020
+E,"Chub, humpback","Gila cypha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E000,E000
+E,"Chub, Virgin River","Gila seminuda (=robusta)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E02A,E02A
+E,"Condor, California","Gymnogyps californianus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B002,B002
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Flycatcher, southwestern willow","Empidonax traillii extimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B094,B094
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Owl, Mexican spotted","Strix occidentalis lucida",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B074,B074
+E,"Pikeminnow (=squawfish), Colorado","Ptychocheilus lucius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E006,E006
+T,"Prairie dog, Utah","Cynomys parvidens",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A04A,A04A
+T,"sage-grouse, Gunnison","Centrocercus minimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B0B0,B0B0
+E,"Sucker, June","Chasmistes liorus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E050,E050
+E,"Sucker, razorback","Xyrauchen texanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E054,E054
+T,"Tortoise, desert","Gopherus agassizii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C04L,C04L
+T,"trout, Greenback Cutthroat","Oncorhynchus clarkii stomias",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00F,E00F
+T,"Trout, Lahontan cutthroat","Oncorhynchus clarkii henshawi",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Y,E00Y
+E,"Woundfin","Plagopterus argentissimus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00Z,E00Z

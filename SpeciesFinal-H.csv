@@ -1,0 +1,504 @@
+status, name, type, state, url,enlistedDate, counties, petetionDetails, spcode
+E,"Akekee",animal,HI,https://ecos.fws.gov/docs/species_images/doc4660-250px-thumbnail.jpg,05/13/2010,"Kauai_HI|","10/15/2007_Listing: Threatened or Endangered|",B0AF
+E,"akepa, Hawaii",animal,HI,,10/13/1970,"Hawaii_HI|Honolulu_HI|Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B044
+E,"akepa, Maui",animal,HI,,10/13/1970,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B045
+E,"akialoa, Kauai (honeycreeper)",animal,HI,,03/11/1967,"Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B000
+E,"akiapolaau",animal,HI,,03/11/1967,"Hawaii_HI|","01/22/1992_APA: Designate Critical Habitat|",B001
+E,"Akikiki",animal,HI,https://ecos.fws.gov/docs/species_images/doc4682-250px-thumbnail.jpg,05/13/2010,"Kauai_HI|","10/15/2007_Listing: Threatened or Endangered|05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",B0AI
+E,"Albatross, short-tailed",animal,HI,https://ecos.fws.gov/docs/species_images/doc1680-250px-thumbnail.jpg,06/02/1970,"Aleutians East_AK|Aleutians West_AK|Anchorage_AK|Bethel_AK|Bristol Bay_AK|Dillingham_AK|Haines_AK|Juneau_AK|Kenai Peninsula_AK|Ketchikan Gateway_AK|Kodiak Island_AK|Lake and Peninsula_AK|Matanuska-Susitna_AK|Nome_AK|Sitka_AK|Valdez-Cordova_AK|Yakutat_AK|Del Norte_CA|Humboldt_CA|Marin_CA|Mendocino_CA|San Francisco_CA|San Mateo_CA|Sonoma_CA|Honolulu_HI|Clatsop_OR|Coos_OR|Curry_OR|Douglas_OR|Lane_OR|Lincoln_OR|Tillamook_OR|Clallam_WA|Grays Harbor_WA|Jefferson_WA|Pacific_WA|San Juan_WA|","",B00Y
+E,"Amphipod, Kauai cave",animal,HI,,01/14/2000,"Kauai_HI|","",K022
+E,"Bat, Hawaiian hoary",animal,HI,,10/13/1970,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",A03W
+E,"Coot, Hawaiian",animal,HI,https://ecos.fws.gov/docs/species_images/doc3705-250px-thumbnail.jpg,10/13/1970,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",B04G
+E,"Creeper, Hawaii",animal,HI,,10/28/1975,"Hawaii_HI|","01/22/1992_APA: Designate Critical Habitat|",B04M
+E,"Creeper, Molokai",animal,HI,,10/13/1970,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B04H
+E,"Creeper, Oahu",animal,HI,,10/13/1970,"Honolulu_HI|","",B046
+E,"Crow, Hawaiian (='alala)",animal,HI,,03/11/1967,"Hawaii_HI|","01/22/1992_APA: Designate Critical Habitat|",B004
+E,"Damselfly, blackline Hawaiian",animal,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I05U
+E,"Damselfly, crimson Hawaiian",animal,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I05V
+E,"Damselfly, flying earwig Hawaiian",animal,HI,https://ecos.fws.gov/docs/species_images/doc4909-250px-thumbnail.jpg,07/26/2010,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I05X
+E,"Damselfly, oceanic Hawaiian",animal,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I062
+E,"Damselfly, orangeblack Hawaiian",animal,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I063
+E,"Damselfly, Pacific Hawaiian",animal,HI,https://ecos.fws.gov/docs/species_images/doc4910-250px-thumbnail.jpg,07/26/2010,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I064
+E,"Duck, Hawaiian (=koloa)",animal,HI,https://ecos.fws.gov/docs/species_images/doc3680-250px-thumbnail.jpg,03/11/1967,"Hawaii_HI|Honolulu_HI|Kauai_HI|Maui_HI|","",B005
+E,"Duck, Laysan",animal,HI,https://ecos.fws.gov/docs/species_images/doc3678-250px-thumbnail.jpg,03/11/1967,"Honolulu_HI|","",B006
+E,"elepaio, Oahu",animal,HI,https://ecos.fws.gov/docs/species_images/doc5670-250px-thumbnail.jpg,04/18/2000,"Honolulu_HI|","03/22/1994_Listing: EndangeredAPA: Designate Critical Habitat|",B0AL
+E,"Finch, Laysan (honeycreeper)",animal,HI,https://ecos.fws.gov/docs/species_images/doc4503-250px-thumbnail.jpg,03/11/1967,"Honolulu_HI|","",B009
+E,"Finch, Nihoa (honeycreeper)",animal,HI,,03/11/1967,"Honolulu_HI|","",B00A
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Honolulu_HI|","",I0QW
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Maui_HI|","",I0RE
+E,"Fly, Hawaiian picture-wing",animal,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I0QY
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Honolulu_HI|","",I0RC
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Hawaii_HI|","",I0QZ
+T,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Hawaii_HI|","",I0R1
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Kauai_HI|","",I0R2
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Honolulu_HI|","",I0R4
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Hawaii_HI|","",I0RD
+E,"Fly, Hawaiian picture-wing",animal,HI,,05/13/2010,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",I0QX
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Honolulu_HI|","",I0R5
+E,"fly, Hawaiian picture-wing",animal,HI,,05/09/2006,"Honolulu_HI|","",I0R6
+E,"gallinule, Hawaiian common",animal,HI,,03/11/1967,"Honolulu_HI|Kauai_HI|","",B00H
+E,"Goose, Hawaiian",animal,HI,https://ecos.fws.gov/docs/species_images/doc3681-250px-thumbnail.jpg,03/11/1967,"Hawaii_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",B00C
+E,"Hawk, Hawaiian (='lo)",animal,HI,https://ecos.fws.gov/docs/species_images/doc4837-250px-thumbnail.jpg,03/11/1967,"Hawaii_HI|","02/08/1997_Delisting: Recovery|",B00D
+E,"honeycreeper, (Akohekohe) crested",animal,HI,,03/11/1967,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B00E
+T,"`I`iwi",animal,HI,https://ecos.fws.gov/docs/species_images/doc5458-250px-thumbnail.jpg,10/20/2017,"","08/26/2010_Listing: Threatened or EndangeredAPA: Designate Critical Habitat|",B0GU
+E,"Millerbird, Nihoa (old world warbler)",animal,HI,https://ecos.fws.gov/docs/species_images/doc4844-250px-thumbnail.jpg,03/11/1967,"Honolulu_HI|","",B00G
+E,"Moth, Blackburn's sphinx",animal,HI,,02/01/2000,"Hawaii_HI|Maui_HI|","",I0AL
+E,"nukupuu, Kauai",animal,HI,,03/11/1967,"Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B048
+E,"nukupuu, Maui",animal,HI,,10/13/1970,"Maui_HI|","",B0OC
+E,"`O`o, Kauai (honeyeater)",animal,HI,,03/11/1967,"Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B00I
+E,"`O`u (honeycreeper)",animal,HI,,03/11/1967,"Hawaii_HI|Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B00J
+E,"Palila (honeycreeper)",animal,HI,,03/11/1967,"Hawaii_HI|","",B00K
+E,"parrotbill, Maui (Kiwikiu)",animal,HI,,03/11/1967,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B00M
+E,"petrel, Hawaiian",animal,HI,,03/11/1967,"Hawaii_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",B00N
+E,"picture-wing fly, Hawaiian",animal,HI,,05/09/2006,"Honolulu_HI|","",I0R0
+E,"picture-wing fly, Hawaiian",animal,HI,,05/09/2006,"Maui_HI|","",I0R3
+E,"Po`ouli (honeycreeper)",animal,HI,,10/28/1975,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B04N
+T,"Sea turtle, green",animal,HI,https://ecos.fws.gov/docs/species_images/doc3724-250px-thumbnail.jpg,05/06/2016,"Bay_FL|Brevard_FL|Duval_FL|Escambia_FL|Flagler_FL|Franklin_FL|Gulf_FL|Manatee_FL|Nassau_FL|Okaloosa_FL|St. Johns_FL|Santa Rosa_FL|Volusia_FL|Walton_FL|Beaufort_NC|Brunswick_NC|Carteret_NC|Craven_NC|Currituck_NC|Dare_NC|Hyde_NC|New Hanover_NC|Onslow_NC|Pamlico_NC|Pender_NC|Beaufort_SC|Charleston_SC|Colleton_SC|Georgetown_SC|Horry_SC|Jasper_SC|Aransas_TX|Brazoria_TX|Calhoun_TX|Cameron_TX|Chambers_TX|Galveston_TX|Jefferson_TX|Kenedy_TX|Kleberg_TX|Matagorda_TX|Nueces_TX|Refugio_TX|San Patricio_TX|Willacy_TX|Accomack_VA|Northampton_VA|Virginia Beach_VA|","02/14/2012_Delisting: Recovery|",C00S
+E,"Sea turtle, hawksbill",animal,HI,https://ecos.fws.gov/docs/species_images/doc4876-250px-thumbnail.jpg,06/02/1970,"Baldwin_AL|Mobile_AL|Fairfield_CT|Middlesex_CT|New Haven_CT|New London_CT|Sussex_DE|Bay_FL|Brevard_FL|Broward_FL|Charlotte_FL|Collier_FL|Duval_FL|Escambia_FL|Flagler_FL|Franklin_FL|Gulf_FL|Hillsborough_FL|Indian River_FL|Jefferson_FL|Lee_FL|Manatee_FL|Martin_FL|Miami-Dade_FL|Monroe_FL|Nassau_FL|Okaloosa_FL|Palm Beach_FL|Pinellas_FL|St. Johns_FL|St. Lucie_FL|Santa Rosa_FL|Sarasota_FL|Volusia_FL|Wakulla_FL|Walton_FL|Bryan_GA|Camden_GA|Chatham_GA|Glynn_GA|Liberty_GA|McIntosh_GA|Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|Cameron_LA|Iberia_LA|Jefferson_LA|Lafourche_LA|Plaquemines_LA|St. Bernard_LA|St. Mary_LA|Terrebonne_LA|Vermilion_LA|Cumberland_ME|Hancock_ME|Knox_ME|Lincoln_ME|Sagadahoc_ME|Waldo_ME|Washington_ME|York_ME|Worcester_MD|Barnstable_MA|Bristol_MA|Dukes_MA|Essex_MA|Nantucket_MA|Norfolk_MA|Suffolk_MA|Hancock_MS|Harrison_MS|Jackson_MS|Rockingham_NH|Atlantic_NJ|Cape May_NJ|Monmouth_NJ|Ocean_NJ|Kings_NY|Nassau_NY|Queens_NY|Richmond_NY|Suffolk_NY|Beaufort_NC|Brunswick_NC|Carteret_NC|Currituck_NC|Dare_NC|Hyde_NC|New Hanover_NC|Onslow_NC|Pamlico_NC|Pender_NC|Bristol_RI|Kent_RI|Newport_RI|Providence_RI|Washington_RI|Aransas_TX|Brazoria_TX|Calhoun_TX|Cameron_TX|Chambers_TX|Galveston_TX|Jefferson_TX|Kenedy_TX|Kleberg_TX|Matagorda_TX|Nueces_TX|Refugio_TX|San Patricio_TX|Willacy_TX|Accomack_VA|Northampton_VA|Virginia Beach_VA|Manu'a_AS|Rose Island_AS|Swains Island_AS|Guam_GU|Rota_MP|Saipan_MP|Aguada_PR|Aguadilla_PR|Añasco_PR|Arecibo_PR|Arroyo_PR|Barceloneta_PR|Cabo Rojo_PR|Camuy_PR|Carolina_PR|Cataño_PR|Ceiba_PR|Culebra_PR|Dorado_PR|Fajardo_PR|Guánica_PR|Guayama_PR|Guayanilla_PR|Hatillo_PR|Humacao_PR|Isabela_PR|Juana Díaz_PR|Lajas_PR|Loíza_PR|Luquillo_PR|Manatí_PR|Maunabo_PR|Mayagüez_PR|Naguabo_PR|Patillas_PR|Peñuelas_PR|Ponce_PR|Quebradillas_PR|Rincón_PR|Río Grande_PR|Salinas_PR|San Juan_PR|Santa Isabel_PR|Toa Baja_PR|Vega Alta_PR|Vega Baja_PR|Vieques_PR|Yabucoa_PR|Yauco_PR|St. Croix_VI|St. John_VI|St. Thomas_VI|","",C00E
+E,"Sea turtle, leatherback",animal,HI,https://ecos.fws.gov/docs/species_images/doc3727-250px-thumbnail.jpg,06/02/1970,"Baldwin_AL|Mobile_AL|Del Norte_CA|Fresno_CA|Humboldt_CA|Los Angeles_CA|Marin_CA|Mendocino_CA|Monterey_CA|Orange_CA|San Diego_CA|San Francisco_CA|San Luis Obispo_CA|San Mateo_CA|Santa Barbara_CA|Santa Cruz_CA|Sonoma_CA|Ventura_CA|Fairfield_CT|Middlesex_CT|New Haven_CT|New London_CT|Sussex_DE|Bay_FL|Brevard_FL|Broward_FL|Charlotte_FL|Collier_FL|Duval_FL|Escambia_FL|Flagler_FL|Franklin_FL|Gulf_FL|Hillsborough_FL|Indian River_FL|Lee_FL|Manatee_FL|Martin_FL|Miami-Dade_FL|Monroe_FL|Nassau_FL|Okaloosa_FL|Palm Beach_FL|Pinellas_FL|St. Johns_FL|St. Lucie_FL|Santa Rosa_FL|Sarasota_FL|Volusia_FL|Walton_FL|Bryan_GA|Camden_GA|Chatham_GA|Glynn_GA|Liberty_GA|McIntosh_GA|Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|Cameron_LA|Iberia_LA|Jefferson_LA|Lafourche_LA|Plaquemines_LA|St. Bernard_LA|St. Mary_LA|Terrebonne_LA|Vermilion_LA|Cumberland_ME|Hancock_ME|Knox_ME|Lincoln_ME|Sagadahoc_ME|Waldo_ME|Washington_ME|York_ME|Worcester_MD|Barnstable_MA|Bristol_MA|Dukes_MA|Essex_MA|Nantucket_MA|Norfolk_MA|Plymouth_MA|Suffolk_MA|Hancock_MS|Harrison_MS|Jackson_MS|Rockingham_NH|Atlantic_NJ|Cape May_NJ|Monmouth_NJ|Ocean_NJ|Kings_NY|Nassau_NY|Queens_NY|Richmond_NY|Suffolk_NY|Beaufort_NC|Brunswick_NC|Carteret_NC|Craven_NC|Currituck_NC|Dare_NC|Hyde_NC|New Hanover_NC|Onslow_NC|Pamlico_NC|Pender_NC|Clatsop_OR|Coos_OR|Curry_OR|Douglas_OR|Lane_OR|Lincoln_OR|Tillamook_OR|Bristol_RI|Kent_RI|Newport_RI|Providence_RI|Washington_RI|Beaufort_SC|Charleston_SC|Colleton_SC|Georgetown_SC|Horry_SC|Jasper_SC|Aransas_TX|Brazoria_TX|Calhoun_TX|Cameron_TX|Chambers_TX|Galveston_TX|Jefferson_TX|Kenedy_TX|Kleberg_TX|Matagorda_TX|Nueces_TX|Refugio_TX|San Patricio_TX|Willacy_TX|Accomack_VA|Northampton_VA|Virginia Beach_VA|Clallam_WA|Grays Harbor_WA|Island_WA|Jefferson_WA|Pacific_WA|San Juan_WA|Aguada_PR|Aguadilla_PR|Añasco_PR|Arecibo_PR|Arroyo_PR|Barceloneta_PR|Cabo Rojo_PR|Camuy_PR|Carolina_PR|Cataño_PR|Ceiba_PR|Culebra_PR|Dorado_PR|Fajardo_PR|Guánica_PR|Guayama_PR|Guayanilla_PR|Hatillo_PR|Humacao_PR|Isabela_PR|Juana Díaz_PR|Lajas_PR|Loíza_PR|Luquillo_PR|Manatí_PR|Maunabo_PR|Mayagüez_PR|Naguabo_PR|Patillas_PR|Peñuelas_PR|Ponce_PR|Quebradillas_PR|Rincón_PR|Río Grande_PR|Salinas_PR|San Juan_PR|Santa Isabel_PR|Toa Baja_PR|Vega Alta_PR|Vega Baja_PR|Vieques_PR|Yabucoa_PR|Yauco_PR|St. Croix_VI|St. John_VI|St. Thomas_VI|","09/20/2017_Reclassify: Downlist threatened|02/23/2010_|",C00F
+T,"Sea turtle, olive ridley",animal,HI,https://ecos.fws.gov/docs/species_images/doc978-250px-thumbnail.jpg,07/28/1978,"Del Norte_CA|Fresno_CA|Humboldt_CA|Los Angeles_CA|Marin_CA|Mendocino_CA|Monterey_CA|Orange_CA|San Diego_CA|San Francisco_CA|San Luis Obispo_CA|San Mateo_CA|Santa Barbara_CA|Santa Cruz_CA|Sonoma_CA|Ventura_CA|Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|Clatsop_OR|Coos_OR|Curry_OR|Douglas_OR|Lane_OR|Lincoln_OR|Tillamook_OR|","",C00V
+T,"Shearwater, Newell's Townsend's",animal,HI,,10/28/1975,"Hawaii_HI|Honolulu_HI|Kauai_HI|Manu'a_AS|","",B04O
+E,"Shrimp, anchialine pool",animal,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",K03B
+E,"Shrimp, anchialine pool",animal,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",K03C
+E,"Snail, Lanai tree",animal,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",G0AG
+E,"Snail, Lanai tree",animal,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",G0AH
+T,"Snail, Newcomb's",animal,HI,,01/26/2000,"Kauai_HI|","",G0C0
+E,"Snails, Oahu tree",animal,HI,,02/12/1981,"Honolulu_HI|","",G01J
+E,"Spider, Kauai cave wolf or pe'e pe'e maka 'ole",animal,HI,https://ecos.fws.gov/docs/species_images/doc4845-250px-thumbnail.jpg,01/14/2000,"Kauai_HI|","",J000
+E,"Stilt, Hawaiian",animal,HI,https://ecos.fws.gov/docs/species_images/doc4899-250px-thumbnail.jpg,10/13/1970,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",B04C
+E,"Storm-petrel, band-rumped",animal,HI,https://ecos.fws.gov/docs/species_images/doc5619-250px-thumbnail.jpg,10/31/2016,"Hawaii_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|05/05/1989_Listing: Endangered|",B08V
+E,"Thrush, large Kauai (=kamao)",animal,HI,,10/13/1970,"Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B04D
+E,"Thrush, Molokai",animal,HI,,10/13/1970,"Maui_HI|","01/22/1992_APA: Designate Critical Habitat|",B04E
+E,"Thrush, small Kauai (=puaiohi)",animal,HI,,03/11/1967,"Kauai_HI|","01/22/1992_APA: Designate Critical Habitat|",B00S
+E,"Tree snail, Newcomb's",animal,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",G09U
+E,"Yellow-faced bee, anthricinan",animal,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Maui_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0GP
+E,"Yellow-faced bee, assimulans",animal,HI,,10/31/2016,"Maui_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0GQ
+E,"Yellow-faced bee, easy",animal,HI,,10/31/2016,"Honolulu_HI|Kalawao_HI|Maui_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0GY
+E,"yellow-faced bee, Hawaiian",animal,HI,,10/31/2016,"Honolulu_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0VM
+E,"yellow-faced bee, Hawaiian",animal,HI,,10/31/2016,"Honolulu_HI|Maui_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0HC
+E,"yellow-faced bee, Hawaiian",animal,HI,,10/31/2016,"Honolulu_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0VL
+E,"Yellow-faced bee, hilaris",animal,HI,,10/31/2016,"Maui_HI|","03/23/2009_Listing: EndangeredAPA: Designate Critical Habitat|",I0HT
+E,"A`e",plant,HI,,10/10/1996,"Hawaii_HI|","",Q3A7
+E,"A`e",plant,HI,,03/04/1994,"Hawaii_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q246
+E,"A`e",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H9
+T,"`Ahinahina",plant,HI,,05/15/1992,"Maui_HI|","",Q1T3
+E,"`Ahinahina",plant,HI,,03/21/1986,"Hawaii_HI|Maui_HI|","",Q25I
+E,"`Aiakeakua, popolo",plant,HI,,02/25/1994,"Honolulu_HI|Kauai_HI|Maui_HI|","",Q21S
+E,"`Aiea",plant,HI,,03/04/1994,"Hawaii_HI|","",Q1ZJ
+E,"`Aiea",plant,HI,,10/31/2016,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q19R
+E,"`Aiea",plant,HI,,02/25/1994,"Kauai_HI|","",Q1ZK
+E,"`Akoko",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1U7
+E,"`Akoko",plant,HI,,03/28/1994,"Honolulu_HI|","",Q1U8
+E,"`Akoko",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HH
+E,"`Akoko",plant,HI,,10/10/1996,"Honolulu_HI|Kauai_HI|","",Q0UD
+E,"`Akoko",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GN
+E,"`Akoko",plant,HI,,10/29/1991,"Honolulu_HI|","",Q30T
+E,"`Akoko",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1UC
+E,"`Akoko",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1UD
+E,"`Akoko",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GO
+E,"''Akoko",plant,HI,,05/13/1992,"Kauai_HI|","",Q1UA
+E,"`Akoko, Ewa Plains",plant,HI,,08/24/1982,"Honolulu_HI|Kalawao_HI|Maui_HI|","",Q1UE
+E,"`aku",plant,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0IX
+E,"`aku`aku",plant,HI,,10/10/1996,"Hawaii_HI|","",Q285
+E,"`Ala `ala wai nui",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q201
+E,"Alani",plant,HI,,12/05/1994,"Maui_HI|","",Q35V
+E,"Alani",plant,HI,,12/05/1994,"Maui_HI|","",Q1YU
+E,"Alani",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1YV
+E,"Alani",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1YX
+E,"Alani",plant,HI,,02/25/1994,"Kauai_HI|","",Q1YY
+E,"Alani",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2DJ
+E,"Alani",plant,HI,,02/25/1994,"Kauai_HI|Maui_HI|","",Q1YZ
+E,"Alani",plant,HI,,03/28/1994,"Honolulu_HI|","",Q1Z0
+E,"Alani",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1Z2
+E,"Alani",plant,HI,,05/15/1992,"Kalawao_HI|Maui_HI|","",Q1Z3
+E,"Alani",plant,HI,,09/03/1999,"Maui_HI|","",Q1Z4
+E,"Alani",plant,HI,,12/05/1994,"Maui_HI|","",Q1Z7
+E,"Alani",plant,HI,,02/25/1994,"Honolulu_HI|Kauai_HI|","",Q1Z8
+E,"Alani",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1Z9
+E,"Alani",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q35Y
+E,"Alani",plant,HI,,02/25/1994,"Kauai_HI|","",Q1ZA
+E,"Alani",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q1ZB
+E,"Alani",plant,HI,,10/10/1996,"Honolulu_HI|","",Q17M
+E,"Alani",plant,HI,,10/10/1996,"Hawaii_HI|","",Q1ZC
+E,"`Anaunau",plant,HI,,10/10/1996,"Honolulu_HI|","",Q12Y
+E,"`Anunu",plant,HI,,10/10/1996,"Hawaii_HI|","",Q393
+E,"`Anunu",plant,HI,,10/31/2016,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q396
+E,"aumakua, Palapalai",plant,HI,,05/13/2010,"Kauai_HI|","",S02I
+E,"Aupaka",plant,HI,,01/14/1991,"Hawaii_HI|","",Q2BU
+E,"Aupaka",plant,HI,,10/10/1996,"Honolulu_HI|Kauai_HI|","",Q108
+T,"Aupaka",plant,HI,,10/10/1996,"Honolulu_HI|Kauai_HI|","",Q109
+E,"`Awikiwiki",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q1TX
+E,"`Awikiwiki",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1TY
+E,"`Awikiwiki",plant,HI,,06/27/2013,"Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0BB
+E,"Awiwi",plant,HI,,10/29/1991,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q30Q
+E,"'Awiwi",plant,HI,,02/25/1994,"Hawaii_HI|Kauai_HI|","",Q1WY
+E,"bean, sea",plant,HI,,06/27/2013,"Maui_HI|","",Q3NZ
+E,"Bluegrass, Hawaiian",plant,HI,,05/13/1992,"Kauai_HI|","",Q20O
+E,"Bluegrass, Mann's",plant,HI,,11/10/1994,"Kauai_HI|","",Q2GL
+E,"Chaff-flower, round-leaved",plant,HI,,03/26/1986,"Honolulu_HI|Maui_HI|","",Q24I
+E,"diellia, Asplenium-leaved",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",S00P
+E,"`Ena`ena",plant,HI,,10/31/2016,"Kalawao_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1WN
+E,"Fern, pendant kihi",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",S00M
+E,"Gardenia",plant,HI,,08/21/1985,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1WJ
+E,"Geranium, Hawaiian red-flowered",plant,HI,,05/13/1992,"Maui_HI|","",Q1WL
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GJ
+E,"Haha",plant,HI,,02/25/1994,"Kauai_HI|","",Q31J
+E,"Haha",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1V0
+E,"Haha",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1LP
+E,"Haha",plant,HI,,03/04/1994,"Hawaii_HI|","",Q31K
+E,"Haha",plant,HI,,09/03/1999,"Maui_HI|","",Q3GV
+E,"haha",plant,HI,,03/28/1994,"Honolulu_HI|","",Q1V1
+E,"Haha",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MS
+E,"haha",plant,HI,,10/10/1996,"Kalawao_HI|Maui_HI|","",Q31L
+E,"haha",plant,HI,,06/27/2013,"Maui_HI|","",Q3NS
+E,"Haha",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HA
+E,"haha",plant,HI,,09/20/1991,"Maui_HI|","",Q2SU
+E,"Haha",plant,HI,,09/03/1999,"Maui_HI|","",Q31M
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|Kalawao_HI|Maui_HI|","",Q1V2
+E,"Haha",plant,HI,,06/27/1994,"Honolulu_HI|","",Q2SR
+E,"Haha",plant,HI,,03/04/1994,"Hawaii_HI|","",Q2SS
+E,"Haha",plant,HI,,09/03/1999,"Maui_HI|","",Q3GW
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q0IN
+E,"Haha",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MT
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GP
+E,"Haha",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H2
+E,"Haha",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0IO
+E,"Haha",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0IP
+E,"Haha",plant,HI,,05/15/1992,"Maui_HI|","",Q2ST
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GQ
+E,"haha",plant,HI,,06/27/2013,"Maui_HI|","",Q3NU
+E,"Haha",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q31P
+E,"haha",plant,HI,,06/27/2013,"Maui_HI|","",Q3NV
+E,"Haha",plant,HI,,11/29/2013,"Hawaii_HI|","",Q0IS
+E,"haha",plant,HI,,06/27/2013,"Maui_HI|","",Q3NW
+E,"Haha",plant,HI,,05/15/1992,"Maui_HI|","",Q1V3
+E,"haha",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q3NX
+E,"Haha",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q31Q
+E,"Haha",plant,HI,,10/29/1991,"Honolulu_HI|","",Q284
+E,"Haha",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q31S
+E,"Haha",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q31T
+E,"Haha",plant,HI,,10/18/2012,"Honolulu_HI|","",Q1LR
+T,"Haha",plant,HI,,10/10/1996,"Kauai_HI|","",Q31V
+E,"Haha",plant,HI,,10/10/1996,"Kauai_HI|","",Q3GK
+E,"Haha",plant,HI,,10/10/1996,"Kauai_HI|","",Q0LV
+E,"Haha",plant,HI,,03/04/1994,"Hawaii_HI|","",Q1V4
+E,"Haha",plant,HI,,03/04/1994,"Hawaii_HI|","",Q286
+E,"Haha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q1V5
+E,"Haha",plant,HI,,09/11/1991,"Honolulu_HI|","",Q1V6
+E,"Haha",plant,HI,,03/28/1994,"Honolulu_HI|","",Q31W
+E,"Haha",plant,HI,,09/20/1991,"Kauai_HI|","",Q31X
+E,"haiwale",plant,HI,,06/27/2013,"Maui_HI|","",Q3NY
+E,"Haiwale",plant,HI,,10/18/2012,"Honolulu_HI|","",Q28D
+E,"Haiwale",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MU
+E,"Haiwale",plant,HI,,10/18/2012,"Honolulu_HI|","",Q0LK
+E,"Ha`iwale",plant,HI,,03/28/1994,"Honolulu_HI|","",Q28B
+E,"Ha`iwale",plant,HI,,10/10/1996,"Honolulu_HI|","",Q0JV
+E,"Ha`iwale",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2SY
+E,"Ha`iwale",plant,HI,,03/04/1994,"Hawaii_HI|","",Q28C
+E,"Ha`iwale",plant,HI,,10/31/2016,"Kalawao_HI|Maui_HI|","",Q323
+E,"Ha`iwale",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0KJ
+T,"Ha`iwale",plant,HI,,02/25/1994,"Kauai_HI|","",Q326
+E,"Ha`iwale",plant,HI,,05/15/1992,"Maui_HI|","",Q28I
+E,"Ha`iwale",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0KX
+E,"Ha`iwale",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q32A
+E,"Ha`iwale",plant,HI,,03/28/1994,"Honolulu_HI|","",Q1V8
+E,"Ha`iwale",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q32B
+E,"Ha`iwale",plant,HI,,10/10/1996,"Honolulu_HI|","",Q1V9
+E,"Ha`iwale",plant,HI,,03/04/1994,"Hawaii_HI|","",Q32C
+E,"Ha`iwale",plant,HI,,10/10/1996,"Honolulu_HI|","",Q32D
+E,"Hala pepe",plant,HI,,06/27/2013,"Maui_HI|","",Q3HU
+E,"Hala pepe",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2GJ
+E,"Hala pepe",plant,HI,,10/10/1996,"Hawaii_HI|","",Q37X
+E,"Hau kuahiwi",plant,HI,,10/10/1996,"Hawaii_HI|","",Q0ZE
+E,"Hau kuahiwi",plant,HI,,10/10/1996,"Hawaii_HI|","",Q0ZF
+E,"Hau kuahiwi",plant,HI,,10/10/1996,"Kauai_HI|","",Q3GL
+E,"Heau",plant,HI,,02/25/1994,"Kauai_HI|","",Q2A6
+E,"Heau",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","",Q3OJ
+E,"Hibiscus, Clay's",plant,HI,,02/25/1994,"Kauai_HI|","",Q1XF
+E,"Hoawa",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q2G8
+E,"Hoawa",plant,HI,,11/29/2013,"Hawaii_HI|","",Q2G9
+E,"Ho`awa",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q37I
+E,"Hohiu",plant,HI,,10/31/2016,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",S029
+E,"Holei",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3ES
+E,"Holei",plant,HI,,03/04/1994,"Hawaii_HI|","",Q2UX
+E,"Honohono",plant,HI,,11/29/1979,"Hawaii_HI|Kauai_HI|Maui_HI|","",Q1WW
+E,"Hulumoa",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q34P
+E,"Ihi",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q381
+E,"Ihi`ihi",plant,HI,,06/22/1992,"Honolulu_HI|Kauai_HI|Maui_HI|","",S00U
+E,"Iliau, dwarf",plant,HI,,06/22/1992,"Kauai_HI|","",Q245
+E,"Ischaemum, Hilo",plant,HI,,03/04/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q2BT
+E,"Kamakahala",plant,HI,,10/10/1996,"Honolulu_HI|","",Q2C2
+E,"Kamakahala",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q34Q
+E,"Kamakahala",plant,HI,,09/20/1991,"Kauai_HI|","",Q2C3
+E,"Kamakahala",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q34R
+E,"Kamakahala",plant,HI,,09/03/1999,"Maui_HI|","",Q2C4
+E,"Kamakahala",plant,HI,,10/10/1996,"Kauai_HI|","",Q3GM
+E,"Kamakahala",plant,HI,,09/03/1999,"Maui_HI|","",Q11Y
+E,"Kamanomano",plant,HI,,10/10/1996,"Honolulu_HI|Maui_HI|","",Q1U4
+E,"Kamapua`a",plant,HI,,10/31/2016,"Honolulu_HI|Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2U1
+E,"Kauai hau kuahiwi",plant,HI,,04/29/1986,"Kauai_HI|","",Q1XB
+E,"Kauila",plant,HI,,03/04/1994,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1UO
+E,"Kaulu",plant,HI,,02/25/1994,"Kauai_HI|","",Q20Y
+E,"Kaulu",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1KE
+E,"Kio`ele",plant,HI,,05/15/1992,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1WZ
+E,"Kiponapona",plant,HI,,10/10/1996,"Hawaii_HI|","",Q37A
+E,"Kohe malama malama o kanaloa",plant,HI,,09/03/1999,"Maui_HI|","",Q3GX
+E,"Koholapehu",plant,HI,,05/13/1992,"Kauai_HI|","",Q1VK
+E,"Koki`o",plant,HI,,12/04/1984,"Hawaii_HI|","",Q1XQ
+E,"Koki`o",plant,HI,,10/10/1996,"Kauai_HI|","",Q1XR
+E,"Koki`o, Cooke's",plant,HI,,11/29/1979,"Maui_HI|","",Q1XP
+E,"Koki`o ke`oke`o",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q2BC
+E,"Koki`o ke`oke`o",plant,HI,,10/10/1996,"Kauai_HI|","",Q1XG
+E,"Kolea",plant,HI,,10/31/2016,"Honolulu_HI|Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HS
+E,"Kolea",plant,HI,,10/10/1996,"Honolulu_HI|","",Q36D
+E,"Kolea",plant,HI,,05/13/2010,"Kauai_HI|","",Q3N0
+T,"Kolea",plant,HI,,10/10/1996,"Kauai_HI|","",Q193
+E,"Kolea",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2E5
+E,"Kolea",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q36E
+E,"Ko`oko`olau",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HE
+E,"Ko`oko`olau",plant,HI,,06/27/2013,"Hawaii_HI|Honolulu_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2S3
+E,"Ko`oko`olau",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q269
+E,"Ko`oko`olau",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q08M
+E,"Ko`oko`olau",plant,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2XY
+E,"Ko`oko`olau",plant,HI,,05/15/1992,"Maui_HI|","",Q1TK
+E,"Ko`oko`olau",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q1TN
+E,"Ko`oloa`ula",plant,HI,,09/26/1986,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1SK
+E,"kopa",plant,HI,,09/03/1999,"Maui_HI|","",Q33Y
+E,"Kopiko",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1KB
+E,"Kopiko",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H6
+E,"Kopiko",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q38F
+E,"Kuahiwi laukahi",plant,HI,,03/04/1994,"Hawaii_HI|","",Q37S
+E,"Kuahiwi laukahi",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q20M
+E,"Kuawawaenohu",plant,HI,,10/10/1996,"Kauai_HI|","",Q2YL
+E,"Kula wahine noho",plant,HI,,03/04/1994,"Hawaii_HI|Honolulu_HI|Kauai_HI|Maui_HI|","",Q1XK
+E,"Kulu`i",plant,HI,,10/29/1991,"Honolulu_HI|Maui_HI|","",Q1ZL
+E,"Kupukupu makalii",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",S02E
+E,"Lau `ehu",plant,HI,,10/10/1996,"Kauai_HI|","",Q1BJ
+E,"Laulihilihi",plant,HI,,10/10/1996,"Kauai_HI|","",Q2W2
+E,"lehua makanoe",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q35G
+E,"Liliwai",plant,HI,,05/15/1992,"Kauai_HI|Maui_HI|","",Q1SM
+E,"Lo`ulu",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q38C
+E,"Lo`ulu",plant,HI,,10/10/1996,"Honolulu_HI|","",Q2VM
+E,"Lo`ulu",plant,HI,,11/29/2013,"Hawaii_HI|","",Q1JR
+E,"Lo`ulu",plant,HI,,03/04/1994,"Hawaii_HI|","",Q38B
+E,"Lo`ulu",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q20W
+E,"Lo`ulu",plant,HI,,10/10/1996,"Kauai_HI|","",Q38D
+E,"Lo`ulu",plant,HI,,08/21/1996,"Honolulu_HI|","",Q1JS
+E,"Lo`ulu",plant,HI,,10/10/1996,"Hawaii_HI|","",Q2VN
+E,"Lo`ulu",plant,HI,,10/10/1996,"Kauai_HI|","",Q38E
+E,"Loulu, Baker''s",plant,HI,,10/31/2016,"Honolulu_HI|","",Q3ON
+E,"Love grass, Fosberg's",plant,HI,,10/10/1996,"Honolulu_HI|","",Q0PH
+E,"Mahoe",plant,HI,,05/15/1992,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q1SO
+T,"Makou",plant,HI,,02/25/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q202
+E,"Makou",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q38H
+E,"Makou",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2VQ
+E,"Ma`o hau hele,",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q1XE
+E,"Ma`oli`oli",plant,HI,,09/30/1991,"Kauai_HI|","",Q2VV
+E,"Ma`oli`oli",plant,HI,,11/29/2013,"Hawaii_HI|","",Q1MU
+E,"Ma`oli`oli",plant,HI,,10/10/1996,"Honolulu_HI|","",Q1MW
+E,"Ma`oli`oli",plant,HI,,10/31/2016,"Kalawao_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q2VZ
+E,"Mapele",plant,HI,,10/10/1996,"Kauai_HI|","",Q322
+E,"Mehamehame",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q33K
+E,"Naenae",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MV
+E,"Naenae",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MW
+E,"Na`ena`e",plant,HI,,10/29/1991,"Honolulu_HI|","",Q2T8
+E,"Na`ena`e",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q32N
+E,"Na`ena`e",plant,HI,,09/20/1991,"Kauai_HI|","",Q32P
+E,"Na`ena`e",plant,HI,,09/03/1999,"Maui_HI|","",Q32Q
+E,"Na`ena`e",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H3
+E,"Na`ena`e",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q0O6
+E,"Nani wai`ale`ale",plant,HI,,10/10/1996,"Kauai_HI|","",Q23U
+E,"Nanu",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GR
+E,"Nanu",plant,HI,,10/31/2016,"Hawaii_HI|Kalawao_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q33N
+E,"Naupaka, dwarf",plant,HI,,05/16/1986,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q21C
+E,"Nehe",plant,HI,,02/25/1994,"Kauai_HI|","",Q1Y4
+E,"Nehe",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1YC
+E,"Nehe",plant,HI,,02/25/1994,"Kauai_HI|","",Q2CY
+E,"Nehe",plant,HI,,02/25/1994,"Honolulu_HI|","",Q2D1
+E,"nehe",plant,HI,,05/15/1992,"Maui_HI|","",Q2CS
+E,"Nehe",plant,HI,,10/29/1991,"Honolulu_HI|","",Q2D0
+E,"Nioi",plant,HI,,03/28/1994,"Honolulu_HI|Maui_HI|","",Q33F
+E,"No common name",plant,HI,,09/20/1991,"Maui_HI|","",Q1SJ
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1SL
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|Kauai_HI|","",Q00G
+E,"No common name",plant,HI,,08/21/1996,"Honolulu_HI|","",Q01G
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",S00Q
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",S02K
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",S007
+E,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",S022
+E,"No common name",plant,HI,,09/26/1994,"Hawaii_HI|Maui_HI|","",S00N
+E,"No common name",plant,HI,,06/27/1994,"Honolulu_HI|","",S01T
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|Kalawao_HI|Maui_HI|","",Q3OA
+E,"No common name",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q1TQ
+E,"No common name",plant,HI,,10/31/2016,"Maui_HI|","",Q3OI
+E,"No common name",plant,HI,,03/04/1994,"Hawaii_HI|Kalawao_HI|Maui_HI|","",Q35R
+E,"No common name",plant,HI,,10/31/2016,"Maui_HI|","",Q35S
+E,"No common name",plant,HI,,11/10/1994,"Honolulu_HI|Kauai_HI|Maui_HI|","",Q2Q0
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","",Q3OB
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","",Q3OC
+E,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",Q1VA
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|Maui_HI|","",Q0LX
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Kauai_HI|Maui_HI|","",S02L
+E,"No common name",plant,HI,,09/26/1994,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",S00R
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",S02H
+E,"No common name",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",S028
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q33I
+E,"No common name",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q3O5
+E,"No common name",plant,HI,,11/09/1984,"Kalawao_HI|Maui_HI|","",Q1WP
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|Kauai_HI|","",Q1WQ
+E,"No common name",plant,HI,,06/27/1994,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1WR
+E,"No common name",plant,HI,,03/28/1994,"Honolulu_HI|Kalawao_HI|Maui_HI|","",Q1X7
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|Maui_HI|","",Q1X8
+E,"No common name",plant,HI,,09/20/1991,"Kauai_HI|","",Q1X9
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",S02B
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1X0
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q3OR
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1X2
+E,"No common name",plant,HI,,09/30/1991,"Kauai_HI|","",Q1X5
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HP
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HQ
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q3OT
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q3OM
+E,"No common name",plant,HI,,11/29/1979,"Hawaii_HI|","",Q1YJ
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q14Y
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q2D2
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|Kauai_HI|","",Q1YK
+E,"No common name",plant,HI,,03/28/1994,"Honolulu_HI|","",Q1YL
+E,"No common name",plant,HI,,02/25/1994,"Honolulu_HI|Kauai_HI|","",Q2DG
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MX
+E,"No common name",plant,HI,,05/15/1992,"Maui_HI|","",Q35J
+E,"No common name",plant,HI,,10/10/1996,"Kalawao_HI|Maui_HI|","",Q35K
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MY
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3MZ
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3H4
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",S02A
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1ZH
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|","",Q19L
+E,"No common name",plant,HI,,11/10/1994,"Kalawao_HI|Maui_HI|","",Q1ZI
+E,"No common name",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q37F
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","",Q2VD
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1GZ
+E,"No common name",plant,HI,,09/20/1991,"Maui_HI|","",Q206
+E,"No common name",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q3O0
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q2FX
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q1H1
+E,"No common name",plant,HI,,03/17/2009,"Kalawao_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H5
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3GS
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q1H2
+E,"No common name",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q3AE
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q2FT
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|Honolulu_HI|Maui_HI|","",Q1H5
+E,"No common name",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q3O1
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3N1
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Kalawao_HI|Maui_HI|","",Q2FV
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|","",Q37B
+E,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",Q378
+E,"No common name",plant,HI,,10/10/1996,"Hawaii_HI|","",Q37C
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q37E
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q2GE
+E,"No common name",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q37U
+E,"No common name",plant,HI,,10/18/2012,"Honolulu_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q37V
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1I5
+E,"No common name",plant,HI,,05/13/1992,"Kauai_HI|","",Q2GQ
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q22G
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","",Q3N2
+E,"No common name",plant,HI,,10/18/2012,"","",Q22R
+E,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",Q1ZG
+E,"No common name",plant,HI,,09/26/1994,"Honolulu_HI|Kalawao_HI|Maui_HI|","",S00W
+E,"No common name",plant,HI,,01/14/1991,"Kauai_HI|","",Q213
+E,"No common name",plant,HI,,01/14/1991,"Kauai_HI|","",Q2YH
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q38R
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|Maui_HI|","",Q1MF
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","",Q2HW
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q3OO
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H7
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","",Q3OE
+E,"No common name",plant,HI,,10/31/2016,"Hawaii_HI|Kalawao_HI|Maui_HI|","",Q3OS
+E,"No common name",plant,HI,,05/15/1992,"Maui_HI|","",Q2VW
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q2VX
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|Maui_HI|","",Q1MV
+E,"No common name",plant,HI,,06/27/2013,"Maui_HI|","",Q3O2
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q21F
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q38U
+E,"No common name",plant,HI,,06/27/2013,"","",Q3O3
+E,"No common name",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q2VY
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q1MY
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|Kauai_HI|","",Q38V
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1SQ
+E,"No common name",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q21G
+E,"No common name",plant,HI,,10/10/1996,"Kalawao_HI|Maui_HI|","",Q1N2
+E,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",Q2W0
+T,"No common name",plant,HI,,02/25/1994,"Kauai_HI|","",Q2W1
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q1SR
+E,"No common name",plant,HI,,10/10/1996,"Kauai_HI|","",Q2X3
+E,"No common name",plant,HI,,10/31/2016,"Honolulu_HI|Kauai_HI|","",Q3OQ
+E,"No common name",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q21N
+T,"No common name",plant,HI,,03/04/1994,"Hawaii_HI|","",Q2IX
+E,"No common name",plant,HI,,10/08/1992,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q21O
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q39A
+E,"No common name",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q39H
+E,"No common name",plant,HI,,11/29/1979,"Hawaii_HI|Kalawao_HI|Maui_HI|","",Q21Z
+E,"No common name",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q39K
+E,"No common name",plant,HI,,05/13/1992,"Kauai_HI|","",Q39L
+E,"No common name",plant,HI,,11/29/2013,"Hawaii_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q39M
+E,"No common name",plant,HI,,10/31/2016,"Honolulu_HI|","",Q1QY
+E,"No common name",plant,HI,,05/13/1992,"Honolulu_HI|","",Q220
+E,"No common name",plant,HI,,06/27/2013,"Maui_HI|","",Q3O4
+E,"No common name",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3H8
+E,"No common name",plant,HI,,03/04/1994,"Hawaii_HI|Maui_HI|","",Q226
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|","",Q228
+E,"No common name",plant,HI,,10/29/1991,"Honolulu_HI|Maui_HI|","",Q229
+E,"No common name",plant,HI,,09/20/1991,"Maui_HI|","",Q22A
+T,"No common name",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q22B
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q3A0
+E,"No common name",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q23R
+E,"No common name",plant,HI,,09/20/1991,"Kauai_HI|","",Q23T
+E,"No common name",plant,HI,,09/20/1991,"Maui_HI|","",Q23V
+E,"No common name",plant,HI,,10/10/1996,"Honolulu_HI|","",Q23W
+E,"No common name",plant,HI,,10/31/2016,"Kauai_HI|","",Q243
+E,"No common name",plant,HI,,06/27/2013,"Maui_HI|","",Q244
+E,"No common name",plant,HI,,05/13/1992,"Kauai_HI|","",Q2MK
+E,"Nohoanu",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HM
+E,"Nohoanu",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3DB
+E,"Nohoanu",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q33O
+E,"Nohoanu",plant,HI,,05/15/1992,"Maui_HI|","",Q2AI
+E,"nui, haha",plant,HI,,06/27/2013,"Maui_HI|","",Q3NT
+E,"Oha",plant,HI,,10/10/1996,"Honolulu_HI|","",Q1VB
+E,"Ohai",plant,HI,,11/10/1994,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q2IM
+E,"`Oha wai",plant,HI,,10/10/1996,"Hawaii_HI|","",Q0G6
+E,"`Oha wai",plant,HI,,03/04/1994,"Hawaii_HI|Maui_HI|","",Q1UL
+E,"`Oha wai",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q317
+E,"`Oha wai",plant,HI,,05/15/1992,"Maui_HI|","",Q318
+E,"`Oha wai",plant,HI,,03/04/1994,"Hawaii_HI|Maui_HI|","",Q1UM
+E,"`Oha wai",plant,HI,,03/04/1994,"Hawaii_HI|","",Q1UN
+E,"`Oha wai",plant,HI,,09/03/1999,"Maui_HI|","",Q3H1
+E,"`Ohe",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q1XN
+E,"`Ohe`ohe",plant,HI,,03/28/1994,"Honolulu_HI|","",Q22F
+E,"olua",plant,HI,,10/31/2016,"Maui_HI|","",S02Q
+E,"Olulu",plant,HI,,02/25/1994,"Kauai_HI|","",Q1TR
+E,"Opuhe",plant,HI,,10/29/1991,"Honolulu_HI|","",Q23M
+E,"Pa`iniu",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3GT
+E,"Pamakani",plant,HI,,09/30/1994,"Maui_HI|","",Q227
+E,"Pamakani",plant,HI,,10/29/1991,"Honolulu_HI|","",Q23S
+E,"Panicgrass, Carter's",plant,HI,,10/12/1983,"Hawaii_HI|Maui_HI|","",Q1ZR
+E,"Papala",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|06/22/2001_Listing: Endangered|",Q0EF
+E,"Pauoa",plant,HI,,09/26/1994,"Honolulu_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",S01I
+E,"pilo",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q1X1
+E,"Pilo kea lau li`i",plant,HI,,05/13/2010,"Kauai_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q37W
+E,"Po`e",plant,HI,,03/04/1994,"Hawaii_HI|Maui_HI|","",Q20T
+E,"Popolo",plant,HI,,06/27/2013,"Kalawao_HI|Maui_HI|","",Q0IV
+E,"Popolo",plant,HI,,10/31/2016,"Hawaii_HI|Honolulu_HI|Kauai_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q21R
+E,"Popolo ku mai",plant,HI,,11/10/1994,"Hawaii_HI|Kalawao_HI|Kauai_HI|Maui_HI|","",Q21Q
+E,"Pua `ala",plant,HI,,10/08/1992,"Kalawao_HI|Maui_HI|","",Q1TS
+E,"Pu`uka`a",plant,HI,,10/10/1996,"Honolulu_HI|Kauai_HI|Maui_HI|","",Q321
+E,"Reedgrass, Hillegrand's",plant,HI,,06/27/2013,"Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q3HF
+E,"Reedgrass, Maui",plant,HI,,10/31/2016,"Hawaii_HI|Maui_HI|","05/11/2004_Listing: Threatened or EndangeredListing: ThreatenedAPA: Designate Critical Habitat|",Q306
+E,"Remya, Maui",plant,HI,,01/14/1991,"Maui_HI|","",Q214
+E,"Sandalwood, Lanai",plant,HI,,01/24/1986,"Maui_HI|","",Q2HX
+E,"Schiedea, Diamond Head",plant,HI,,02/17/1984,"Honolulu_HI|","",Q21E
+E,"Silversword, Mauna Loa",plant,HI,,04/07/1993,"Hawaii_HI|","",Q1T2
+E,"Uhi uhi",plant,HI,,07/08/1986,"Hawaii_HI|Honolulu_HI|Kauai_HI|Maui_HI|","",Q09U
+E,"Vetch, Hawaiian",plant,HI,https://ecos.fws.gov/docs/species_images/doc5092-250px-thumbnail.jpg,05/27/1978,"Hawaii_HI|","",Q23Q
+E,"Wahane",plant,HI,,08/07/1996,"Kauai_HI|","",Q1JK
+E,"Wawae`iole",plant,HI,,05/15/1992,"Hawaii_HI|Kauai_HI|Maui_HI|","",S01K
+E,"Wawae`iole",plant,HI,,03/28/1994,"Honolulu_HI|Kauai_HI|","",S01L

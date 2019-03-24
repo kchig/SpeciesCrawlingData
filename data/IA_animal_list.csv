@@ -1,0 +1,15 @@
+status, species, listing name, link, spcode
+E,"Bat, Indiana","Myotis sodalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A000,A000
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+E,"Bumble bee, Rusty patched","Bombus affinis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0WI,I0WI
+E,"Higgins eye (pearlymussel)","Lampsilis higginsii",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F009,F009
+T,"Massasauga (=rattlesnake), eastern","Sistrurus catenatus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=C03P,C03P
+E,"Mussel, sheepnose","Plethobasus cyphyus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F046,F046
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Shiner, Topeka","Notropis topeka (=tristis)",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E07R,E07R
+T,"Skipper, Dakota","Hesperia dacotae",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I011,I011
+E,"skipperling, Poweshiek","Oarisma poweshiek",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=I0W1,I0W1
+E,"Snail, Iowa Pleistocene","Discus macclintocki",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=G00T,G00T
+E,"Spectaclecase (mussel)","Cumberlandia monodonta",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=F00X,F00X
+E,"Sturgeon, pallid","Scaphirhynchus albus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E06X,E06X
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N

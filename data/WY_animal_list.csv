@@ -1,0 +1,12 @@
+status, species, listing name, link, spcode
+T,"Bat, Northern long-eared","Myotis septentrionalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0JE,A0JE
+T,"Bear, grizzly","Ursus arctos horribilis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A001,A001
+E,"Chub, humpback","Gila cypha",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E000,E000
+T,"Cuckoo, yellow-billed","Coccyzus americanus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B06R,B06R
+E,"Dace, Kendall Warm Springs","Rhinichthys osculus thermalis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E00S,E00S
+T,"Lynx, Canada","Lynx canadensis",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A073,A073
+T,"Mouse, Preble's meadow jumping","Zapus hudsonius preblei",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=A0C2,A0C2
+E,"Pikeminnow (=squawfish), Colorado","Ptychocheilus lucius",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=E006,E006
+T,"Plover, piping","Charadrius melodus",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B079,B079
+E,"Tern, least","Sterna antillarum",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=B07N,B07N
+E,"Toad, Wyoming","Bufo hemiophrys baxteri",https://ecos.fws.gov/ecp0/profile/speciesProfile?spcode=D01R,D01R
